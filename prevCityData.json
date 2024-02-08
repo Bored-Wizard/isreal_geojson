@@ -1,0 +1,9578 @@
+[
+    {
+      "0": {
+        "geojson": "m207993.geojson",
+        "place": "Abarim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m742783.geojson",
+        "place": "Abu al Duhur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m108f0b.geojson",
+        "place": "Abu Dis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb94c78.geojson",
+        "place": "Abu Ghosh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m436ab5.geojson",
+        "place": "Abu Tor"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m402935.geojson",
+        "place": "Achaia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc58154.geojson",
+        "place": "Acre"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfc8ad3.geojson",
+        "place": "Acropolis of Rhodes"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0a8dbd.geojson",
+        "place": "Adana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m17c007.geojson",
+        "place": "Ad Duhaybah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md09b31.geojson",
+        "place": "Adlun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m904265.geojson",
+        "place": "Adriatic and Ionian Seas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m63c98b.geojson",
+        "place": "Adulis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9a12db.geojson",
+        "place": "Adummim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mea51a2.geojson",
+        "place": "Aegean Islands"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m65fe20.geojson",
+        "place": "Aenon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m035790.geojson",
+        "place": "Afqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m58175b.geojson",
+        "place": "Afula"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mab23b9.geojson",
+        "place": "Ahwat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m790eb4.geojson",
+        "place": "Ain Bourdai"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m053067.geojson",
+        "place": "Ain el Gharabeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m67b92b.geojson",
+        "place": "Ain el Ghuweir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m626d73.geojson",
+        "place": "Ain el Habus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcfc88c.geojson",
+        "place": "Ain el Khadra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mccae46.geojson",
+        "place": "Ain el Madauwerah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6da23a.geojson",
+        "place": "Ain el Qudeirat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mde1ac7.geojson",
+        "place": "Ain Eshkali"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mec7389.geojson",
+        "place": "Ain ez Zarqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m92876b.geojson",
+        "place": "Ain Feshkah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1a53ab.geojson",
+        "place": "Ain Hajlah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md8dd4a.geojson",
+        "place": "Ain Hawarah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8e8c01.geojson",
+        "place": "Ain Jedeideh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mec0b4d.geojson",
+        "place": "Ain Kezbeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m082a19.geojson",
+        "place": "Ain Mesherfi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9398f2.geojson",
+        "place": "Ain Muweileh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m375464.geojson",
+        "place": "Ain Qana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mde3fc5.geojson",
+        "place": "Ain Qoseimeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1359e9.geojson",
+        "place": "Ain Rathmah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9a6508.geojson",
+        "place": "Ain Sarah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0021a3.geojson",
+        "place": "Ain Sebta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m68e2d1.geojson",
+        "place": "Ain Seridah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb69a90.geojson",
+        "place": "Ain Shams"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0b376e.geojson",
+        "place": "Aitaroun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m790367.geojson",
+        "place": "Ajloun Forest Reserve"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0b0e06.geojson",
+        "place": "Akeldama"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4e3e3e.geojson",
+        "place": "Akhisar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m38cb91.geojson",
+        "place": "Al Abbasiyah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb4d8a2.geojson",
+        "place": "Al Ahsa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m495fa6.geojson",
+        "place": "Al ‘Al"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m58caf3.geojson",
+        "place": "Alamatha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m00b3ac.geojson",
+        "place": "Al Araj"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m91dd93.geojson",
+        "place": "Alaşehir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m963bb7.geojson",
+        "place": "Al Bad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbb81a4.geojson",
+        "place": "Al Baleed"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m71114a.geojson",
+        "place": "Al Baqa’a"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mebe332.geojson",
+        "place": "Al Bira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m099496.geojson",
+        "place": "Al Buqay’ah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3f1a1b.geojson",
+        "place": "Al Burj"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me79fbd.geojson",
+        "place": "Alein"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbf99a2.geojson",
+        "place": "Aleiyan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m227592.geojson",
+        "place": "Al Eizariya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4badb5.geojson",
+        "place": "Aleppo"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m363196.geojson",
+        "place": "Alexandria"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf8cbc7.geojson",
+        "place": "Alexandria Troas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9804d8.geojson",
+        "place": "Al Gharraf River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m933319.geojson",
+        "place": "Al Haditha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb5317b.geojson",
+        "place": "Al Haram"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9cad98.geojson",
+        "place": "Alishar Huyuk"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me36d66.geojson",
+        "place": "Al Khayriyya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me6a184.geojson",
+        "place": "Al Khuraybah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mce9265.geojson",
+        "place": "Alma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0c03bf.geojson",
+        "place": "Al Maghar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b5d69.geojson",
+        "place": "Al Maghtas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m770e08.geojson",
+        "place": "Al Mahamdiyah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3cf986.geojson",
+        "place": "Al Manifa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9ca372.geojson",
+        "place": "Al Na’ani"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0c88eb.geojson",
+        "place": "Al Qantarah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mebc591.geojson",
+        "place": "Al Qarqar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9f20df.geojson",
+        "place": "Al Qaryatayn"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m90275b.geojson",
+        "place": "Al Qastal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m60a34b.geojson",
+        "place": "Al Qurayyat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m370d20.geojson",
+        "place": "Al Qush"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m60da9d.geojson",
+        "place": "Al Rahba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m67501d.geojson",
+        "place": "Al Ram"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m28cd4b.geojson",
+        "place": "Al Safi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m092d12.geojson",
+        "place": "Al Shaykh Saad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m512418.geojson",
+        "place": "Alsi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m54cf31.geojson",
+        "place": "Al Zaafaraniyah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0c1bc5.geojson",
+        "place": "Amman"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7aac33.geojson",
+        "place": "Amphipolis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m61f1c0.geojson",
+        "place": "Amuk Valley"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6fa94d.geojson",
+        "place": "Anah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma76eac.geojson",
+        "place": "Anata"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m29fa9d.geojson",
+        "place": "ancient theater at Mitylene"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md377f5.geojson",
+        "place": "Anin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2ed2a7.geojson",
+        "place": "Anjar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5e72ac.geojson",
+        "place": "Antalya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m93f901.geojson",
+        "place": "Antioch in Pisidia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbe432b.geojson",
+        "place": "Antioch on the Orontes"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf569cb.geojson",
+        "place": "Antonia Fortress"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md0824c.geojson",
+        "place": "Apollonia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "med32df.geojson",
+        "place": "Aqaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6efad3.geojson",
+        "place": "Aqir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfcf08d.geojson",
+        "place": "Arabah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m136387.geojson",
+        "place": "Arabbuna"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9ed9ce.geojson",
+        "place": "Arabian Peninsula"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m18c2ee.geojson",
+        "place": "Arabia Petraea"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m54d9cf.geojson",
+        "place": "Arair"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m825b91.geojson",
+        "place": "Arak Ismain"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m220d13.geojson",
+        "place": "Araq ed Deir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5fcccc.geojson",
+        "place": "Aras River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcaea80.geojson",
+        "place": "Arbin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma9c898.geojson",
+        "place": "Areopagus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md88865.geojson",
+        "place": "Argob"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m47cd69.geojson",
+        "place": "Armenia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meafcb4.geojson",
+        "place": "Arnah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb60db9.geojson",
+        "place": "Arraba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1fb191.geojson",
+        "place": "Ar Ramtha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m15a08e.geojson",
+        "place": "Ar Ruwaysat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7539ea.geojson",
+        "place": "Artas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me1373f.geojson",
+        "place": "Artuf"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maf746a.geojson",
+        "place": "Arwad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1b66b9.geojson",
+        "place": "Aseret"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3c5a04.geojson",
+        "place": "Asia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m276e13.geojson",
+        "place": "Asia Minor"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb04b16.geojson",
+        "place": "Askar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mae0f0a.geojson",
+        "place": "As Salt"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m322922.geojson",
+        "place": "As Samu"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mce3faf.geojson",
+        "place": "Assos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m24a920.geojson",
+        "place": "Assur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m726943.geojson",
+        "place": "Aswan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m05288e.geojson",
+        "place": "Atar Nehusha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md70ac9.geojson",
+        "place": "Athens"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9c2d3a.geojson",
+        "place": "Athlit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1ec77e.geojson",
+        "place": "At Tell"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md4a2ba.geojson",
+        "place": "Avdat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6dfa22.geojson",
+        "place": "Awaj River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5575e4.geojson",
+        "place": "Awarta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4a75c5.geojson",
+        "place": "Ayalon River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3f93dc.geojson",
+        "place": "Ayalon Valley"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb2786f.geojson",
+        "place": "Ayl"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6d8f34.geojson",
+        "place": "Aynata"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1b0675.geojson",
+        "place": "Ayun esh Sha’in"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0d7f01.geojson",
+        "place": "Ayun Qara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5e0641.geojson",
+        "place": "Azal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc750ee.geojson",
+        "place": "Azalla"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0a1b7f.geojson",
+        "place": "Azraq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf3710d.geojson",
+        "place": "Az Zu‘alla"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6653cf.geojson",
+        "place": "Baalbek"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m713b74.geojson",
+        "place": "Bab edh Dhra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma725ef.geojson",
+        "place": "Bab en Naqb"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md561de.geojson",
+        "place": "Babylon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mab07b2.geojson",
+        "place": "Babylon el Darag"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m02640f.geojson",
+        "place": "Balikh River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m857530.geojson",
+        "place": "Ballah Lakes"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m518f8e.geojson",
+        "place": "Banias"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m927319.geojson",
+        "place": "Bani Nai’im"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m39ac0b.geojson",
+        "place": "Barada River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maccbcf.geojson",
+        "place": "Barazen"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3a5cfe.geojson",
+        "place": "Barbar River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b34d9.geojson",
+        "place": "Bath el Battash"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf620ab.geojson",
+        "place": "Batn Harasheh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma338f2.geojson",
+        "place": "Batn Umm Nari"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m428846.geojson",
+        "place": "Bayburt"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m756fb4.geojson",
+        "place": "Bayt Dajan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc4b280.geojson",
+        "place": "Bayt Itab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2e3cfd.geojson",
+        "place": "Bayt Jiz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m23ba30.geojson",
+        "place": "Bayt Nattif"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6234da.geojson",
+        "place": "Bayt Thul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me71a82.geojson",
+        "place": "Bazu"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf0a9c6.geojson",
+        "place": "Bedhat esh Sha’ab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4afea7.geojson",
+        "place": "Beer Yeroham"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma7cea6.geojson",
+        "place": "Beirut"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4f0971.geojson",
+        "place": "Beit Anan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5ba7b5.geojson",
+        "place": "Beit Hanina"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me58522.geojson",
+        "place": "Beitin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf43e77.geojson",
+        "place": "Beit Irza"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9fb934.geojson",
+        "place": "Beit Jala"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m16ec79.geojson",
+        "place": "Beit Jimal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma3ac8b.geojson",
+        "place": "Beit Lahm"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb0b80f.geojson",
+        "place": "Beit Nabala"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m003c09.geojson",
+        "place": "Beit Netofa Valley"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m64c4ca.geojson",
+        "place": "Beit Qad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcd60ca.geojson",
+        "place": "Beit Rima"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcc3e37.geojson",
+        "place": "Beit Shearim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcb263d.geojson",
+        "place": "Beit Sira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5e4e24.geojson",
+        "place": "Beit Ummar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7a849a.geojson",
+        "place": "Beitunia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdfba66.geojson",
+        "place": "Beit Ur al Fauqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1de942.geojson",
+        "place": "Beit Ur al Tahta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m43eab9.geojson",
+        "place": "Beqaa Valley"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9b8daa.geojson",
+        "place": "Bethlehem"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9fb7cc.geojson",
+        "place": "between Aiath and Michmash"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6cc8f5.geojson",
+        "place": "between Aleppo and Carchemish"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf37ea0.geojson",
+        "place": "between Baalbek and Kadesh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdc2906.geojson",
+        "place": "between Damascus and Hamath"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me99efe.geojson",
+        "place": "between Dedan and Kedar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0621fa.geojson",
+        "place": "between Eshtaol and Zorah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maa73c2.geojson",
+        "place": "between Gerar and Beersheba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma386d1.geojson",
+        "place": "between Gibeah and Ramah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma696f8.geojson",
+        "place": "between Ibleam and Megiddo"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf228b0.geojson",
+        "place": "between Kadesh-barnea and Akrabbim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4bcf97.geojson",
+        "place": "between Kedesh-naphtali and Hazor"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7851b8.geojson",
+        "place": "between Lachish and Gath"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maaba23.geojson",
+        "place": "between Maghfar and Lake Timsah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m817ceb.geojson",
+        "place": "between Mizpah and Shen"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3a252c.geojson",
+        "place": "between Punon and Zered"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4c5498.geojson",
+        "place": "between the Dead Sea and Petra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mba7a7f.geojson",
+        "place": "between the Dead Sea and the Gulf of Aqaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdaf25b.geojson",
+        "place": "Be’er Nevatim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4c17f6.geojson",
+        "place": "Biar es Sukker"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbcd830.geojson",
+        "place": "Biddu"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcaedc7.geojson",
+        "place": "Bint Jbeil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m093032.geojson",
+        "place": "Bint Jbeil water storage"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4e816f.geojson",
+        "place": "Bir Ali"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m628173.geojson",
+        "place": "Bir Ayub"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md1c4b3.geojson",
+        "place": "Bir ed Deir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4ee7bd.geojson",
+        "place": "Birein"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m81d48b.geojson",
+        "place": "Bir el Esani"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3bbdc4.geojson",
+        "place": "Bir es Sawra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m14a95e.geojson",
+        "place": "Bir es Seba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m35f538.geojson",
+        "place": "Bir Gifgafa Airfield"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb68774.geojson",
+        "place": "Birket Hafour el Ahmar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m34312e.geojson",
+        "place": "Bir Madhkur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me8880b.geojson",
+        "place": "Bir Mara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m29b4f7.geojson",
+        "place": "Bithynia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md254e8.geojson",
+        "place": "Bitter Lakes"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m14060a.geojson",
+        "place": "Bi’ina"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1a01bb.geojson",
+        "place": "Blue Nile"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m17c001.geojson",
+        "place": "Bosporus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0df275.geojson",
+        "place": "Bozez"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md56681.geojson",
+        "place": "Brital"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3da284.geojson",
+        "place": "Broad Wall"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m26f59b.geojson",
+        "place": "Burj Beitin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m14421f.geojson",
+        "place": "Burj el Bardawil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b8113.geojson",
+        "place": "Burj el Haska"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma7df4b.geojson",
+        "place": "Burj el Isaneh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc678e7.geojson",
+        "place": "Burqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b0cf5.geojson",
+        "place": "Buseira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf937a6.geojson",
+        "place": "Byblos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0c70c9.geojson",
+        "place": "Cádiz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m11da12.geojson",
+        "place": "Caesarea Maritima"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me57a9a.geojson",
+        "place": "Callirrhoe"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m39393a.geojson",
+        "place": "Canaan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbbc4a4.geojson",
+        "place": "Cape Mycale"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf98a4e.geojson",
+        "place": "Cape Sideros"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6e1e42.geojson",
+        "place": "Cappadocia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5ba349.geojson",
+        "place": "Carcaria"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8f3972.geojson",
+        "place": "Carthage"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb956fb.geojson",
+        "place": "Cave of the Patriarchs"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb93e31.geojson",
+        "place": "Chatal Huyuk"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf3ab86.geojson",
+        "place": "Chios"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdcf59e.geojson",
+        "place": "Church of the Holy Sepulchre"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mebf05c.geojson",
+        "place": "City of David"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m259892.geojson",
+        "place": "Cnidus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3f820b.geojson",
+        "place": "Colossae"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb10309.geojson",
+        "place": "Convent of the Sisters of Zion"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me0518f.geojson",
+        "place": "Corinth"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf93341.geojson",
+        "place": "Crete"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md25a73.geojson",
+        "place": "Crowfoot and Fitzgerald excavation site"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m349db7.geojson",
+        "place": "Ctesiphon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me751fb.geojson",
+        "place": "Cyprus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me649fd.geojson",
+        "place": "Cyrene"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc070bb.geojson",
+        "place": "Dahab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2f9843.geojson",
+        "place": "Dahriya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me8c716.geojson",
+        "place": "Dalmatia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m878978.geojson",
+        "place": "Damascus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m328bf2.geojson",
+        "place": "Dannea"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma09e9a.geojson",
+        "place": "Daraa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mab0d53.geojson",
+        "place": "Dayr Nakhkhas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7d469b.geojson",
+        "place": "Dead Sea"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc53c05.geojson",
+        "place": "Debbet er Ramleh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m59ce29.geojson",
+        "place": "Decapolis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8d7caa.geojson",
+        "place": "Deir al Asal al Fauqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m988bed.geojson",
+        "place": "Deir al Ghawi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf937bb.geojson",
+        "place": "Deir ed Domeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m60ab56.geojson",
+        "place": "Deir el Azar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfd1385.geojson",
+        "place": "Deir ez Zor"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb3789f.geojson",
+        "place": "Deir Ghassaneh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf5b38d.geojson",
+        "place": "Deir Hajla"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m411129.geojson",
+        "place": "Deir Muheisin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5bef14.geojson",
+        "place": "Der"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdeff6e.geojson",
+        "place": "Devri Şehri"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m49c3d8.geojson",
+        "place": "Dhuluiya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8953bd.geojson",
+        "place": "Dibdiba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m22ee15.geojson",
+        "place": "Dibseh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf517cf.geojson",
+        "place": "Dimnah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfa5a15.geojson",
+        "place": "Dirar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4f8928.geojson",
+        "place": "Diyala River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf4f903.geojson",
+        "place": "Djibouti"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcae10f.geojson",
+        "place": "Duleilat el Gharbiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc8b658.geojson",
+        "place": "Duleilat esh Sharqiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma4d11e.geojson",
+        "place": "Dumat al Jandal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b0e6d.geojson",
+        "place": "Dura"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7bf7d6.geojson",
+        "place": "eastern side of the Sea of Galilee"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mef630c.geojson",
+        "place": "east of Gibeon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8f74a0.geojson",
+        "place": "Ed Dawaimeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma17f5d.geojson",
+        "place": "Ed Deir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6f1b7f.geojson",
+        "place": "Eilat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9e6f48.geojson",
+        "place": "Ein Arik"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3f8658.geojson",
+        "place": "Ein as Sultan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mab96b2.geojson",
+        "place": "Ein ed Duyuk"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3f2d3d.geojson",
+        "place": "Ein el Khirba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb89a0b.geojson",
+        "place": "Ein esh Shallala"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma726cc.geojson",
+        "place": "Ein et Turaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m31fd25.geojson",
+        "place": "Ein et Tuta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9444bd.geojson",
+        "place": "Ein Evrona"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0ba7d9.geojson",
+        "place": "Ein Gedi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md512fb.geojson",
+        "place": "Ein Haud"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc853b5.geojson",
+        "place": "Ein Karim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2ed468.geojson",
+        "place": "Ein Qedeis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me8b945.geojson",
+        "place": "Ein Samia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m87a302.geojson",
+        "place": "Ein Umm esh Sharayit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdc9182.geojson",
+        "place": "Ein Weibeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0a0e06.geojson",
+        "place": "Ein Yotvata"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6fd012.geojson",
+        "place": "El Abeidiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me74322.geojson",
+        "place": "El Alem"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5d8025.geojson",
+        "place": "El Baq’a"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8f1639.geojson",
+        "place": "El Bira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbfd954.geojson",
+        "place": "El Gebal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6ee789.geojson",
+        "place": "El Ghuweir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m38734c.geojson",
+        "place": "El Iraq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m44b57b.geojson",
+        "place": "Elis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf177df.geojson",
+        "place": "El Jai Cave"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb5ae8b.geojson",
+        "place": "El Jebariyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf55105.geojson",
+        "place": "El Jib"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me769a4.geojson",
+        "place": "El Kaiyara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m743096.geojson",
+        "place": "El Karm"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m67fb06.geojson",
+        "place": "El Kauzeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m484d0f.geojson",
+        "place": "El Keryeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maffe87.geojson",
+        "place": "El Khirbeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m25d7b7.geojson",
+        "place": "El Malha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m488d9e.geojson",
+        "place": "El Marka"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc1b445.geojson",
+        "place": "El Mess’adiyye"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5c32ee.geojson",
+        "place": "El Mghairiye"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m16b26f.geojson",
+        "place": "El Muneitrah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m679b51.geojson",
+        "place": "El Qaa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md414e6.geojson",
+        "place": "El Qubeibeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m196967.geojson",
+        "place": "El Q’ada"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meb169c.geojson",
+        "place": "El Tor"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m888945.geojson",
+        "place": "El ’Unuq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m77574e.geojson",
+        "place": "Emmaus Nicopolis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m467962.geojson",
+        "place": "En haYadid"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m27a1e0.geojson",
+        "place": "En Hazeva"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3deaee.geojson",
+        "place": "En Iron"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf59ccc.geojson",
+        "place": "Enkomi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1d647a.geojson",
+        "place": "En Meron"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6af844.geojson",
+        "place": "En Orahot"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md97bd4.geojson",
+        "place": "En Tamar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m84025e.geojson",
+        "place": "Ephesus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m32279c.geojson",
+        "place": "Erjan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6ae651.geojson",
+        "place": "Er Rameh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m31d269.geojson",
+        "place": "Er Remeil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3eb278.geojson",
+        "place": "Erweis el Ebeirig"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma45395.geojson",
+        "place": "Esh Shaghur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mda9727.geojson",
+        "place": "Eshtaol"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf838ec.geojson",
+        "place": "Es Saliyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3f98a9.geojson",
+        "place": "Es Sebkha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mda592c.geojson",
+        "place": "Etruria"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m134a42.geojson",
+        "place": "Et Taba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mac1117.geojson",
+        "place": "Et Taiyibeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m43153c.geojson",
+        "place": "Et Tayibeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m902bcf.geojson",
+        "place": "Et Tell"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6bd6bd.geojson",
+        "place": "Et Tur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc07de7.geojson",
+        "place": "Euphrates River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf06c0c.geojson",
+        "place": "Ez Zarat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma2bc43.geojson",
+        "place": "Ez Zuhur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcff45c.geojson",
+        "place": "Farata"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8e724c.geojson",
+        "place": "Farwah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf7135b.geojson",
+        "place": "Fayid"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maa94ef.geojson",
+        "place": "Feifa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m204e7f.geojson",
+        "place": "Feldstein et al Site 34"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m002fb4.geojson",
+        "place": "Feldstein et al Site 43"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m297f75.geojson",
+        "place": "Finikas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m22ecef.geojson",
+        "place": "Fiq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4241cc.geojson",
+        "place": "Forum Appii"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m12013f.geojson",
+        "place": "French Hill"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7e7545.geojson",
+        "place": "Galatia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf8c29c.geojson",
+        "place": "Galilee"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfae3ed.geojson",
+        "place": "Ganges River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9e1f27.geojson",
+        "place": "Gavdos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m835caa.geojson",
+        "place": "Gethsemane"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m283cb0.geojson",
+        "place": "Ghantur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8f0036.geojson",
+        "place": "Gharandal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m92dbfa.geojson",
+        "place": "Gihon Spring"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1f6a45.geojson",
+        "place": "Gilo"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1a8570.geojson",
+        "place": "Givat Hablanim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m43ae95.geojson",
+        "place": "Givat HaMoreh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb066ed.geojson",
+        "place": "Givat ha Shoqet"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6acc08.geojson",
+        "place": "Goa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m942643.geojson",
+        "place": "Gordion"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9282d4.geojson",
+        "place": "Gordon’s Calvary"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m564bff.geojson",
+        "place": "Güdelisin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma80c62.geojson",
+        "place": "Gulf of Aqaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mec75f5.geojson",
+        "place": "Gulf of Suez"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m81af16.geojson",
+        "place": "Gürün"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9277c7.geojson",
+        "place": "Hader"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m325c72.geojson",
+        "place": "Hadita"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m87cf6c.geojson",
+        "place": "Haitla"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0c93b5.geojson",
+        "place": "Hajar ed Damm"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m69a95d.geojson",
+        "place": "Halbun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meeeda4.geojson",
+        "place": "Halhul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mea9d16.geojson",
+        "place": "Haluza"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m653490.geojson",
+        "place": "Hama"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2c833a.geojson",
+        "place": "Hamam al Alil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5b2a6f.geojson",
+        "place": "Hamat Tiberias"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m33ae26.geojson",
+        "place": "Hanot Taggarim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me4d2f1.geojson",
+        "place": "Hanzir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb43cbb.geojson",
+        "place": "Har ‘Arif"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3ed4be.geojson",
+        "place": "Har Avnon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m52836d.geojson",
+        "place": "Haraziya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m27bf86.geojson",
+        "place": "Hare Dimona 18"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m30e667.geojson",
+        "place": "Har Hezron"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf403c9.geojson",
+        "place": "Hariss"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0cc900.geojson",
+        "place": "Har Karkom"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc9a69d.geojson",
+        "place": "Harran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdc8fda.geojson",
+        "place": "Har Zevi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m700b87.geojson",
+        "place": "Har Zin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m728795.geojson",
+        "place": "Hasbaya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m192131.geojson",
+        "place": "Hattin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2ad437.geojson",
+        "place": "Hattusa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5ebd3e.geojson",
+        "place": "Hauran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m36efdd.geojson",
+        "place": "Hazar Betarim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md387f1.geojson",
+        "place": "Ha’il"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md0d53c.geojson",
+        "place": "Hermel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma33a49.geojson",
+        "place": "Herodium"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mecccdd.geojson",
+        "place": "Herod’s palace in Jerusalem"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me32616.geojson",
+        "place": "Hierapolis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m01c51b.geojson",
+        "place": "hills of Ephraim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m849e0d.geojson",
+        "place": "Hinah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4ec2d3.geojson",
+        "place": "Hinnom Valley"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6581f3.geojson",
+        "place": "Hispania"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbd8b3e.geojson",
+        "place": "Hit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcc3d1b.geojson",
+        "place": "Hizma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md2e197.geojson",
+        "place": "Hoba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3a88d4.geojson",
+        "place": "Homs"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m605ffe.geojson",
+        "place": "Horbat Adar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "macb7a7.geojson",
+        "place": "Horbat Anim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m974608.geojson",
+        "place": "Horbat Arbel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m28dc0a.geojson",
+        "place": "Horbat Avimor"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m435836.geojson",
+        "place": "Horbat Beer Shama"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfdde01.geojson",
+        "place": "Horbat Bet Elem"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m395706.geojson",
+        "place": "Horbat Darban"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mff2983.geojson",
+        "place": "Horbat Deragot"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m902faf.geojson",
+        "place": "Horbat Gluma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4ed9a3.geojson",
+        "place": "Horbat Hadran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me405e1.geojson",
+        "place": "Horbat HaRoah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md73762.geojson",
+        "place": "Horbat Kenesiyya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb35901.geojson",
+        "place": "Horbat Kush"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5f08dc.geojson",
+        "place": "Horbat Lehem"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4fc052.geojson",
+        "place": "Horbat Migdalit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7c7d60.geojson",
+        "place": "Horbat Qana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m55c579.geojson",
+        "place": "Horbat Rahba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdb97ba.geojson",
+        "place": "Horbat Rumah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m601c7a.geojson",
+        "place": "Horbat Sefan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf3026f.geojson",
+        "place": "Horbat Shuq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc399ee.geojson",
+        "place": "Horbat Tayyav"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0e5df3.geojson",
+        "place": "Horbat Timna"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9cc606.geojson",
+        "place": "Horbat Uza"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb432b3.geojson",
+        "place": "Horbat Yamma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma0ce5d.geojson",
+        "place": "Horvat Devora"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m780e56.geojson",
+        "place": "Horvat Ukkal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m910aae.geojson",
+        "place": "Huelva"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m79b6a2.geojson",
+        "place": "Hunin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1faf41.geojson",
+        "place": "Hursagkalamma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbdb4ea.geojson",
+        "place": "Husan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf717ad.geojson",
+        "place": "Huwwarin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf746d4.geojson",
+        "place": "Hyrcania"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma6009a.geojson",
+        "place": "Ibdar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m64ba44.geojson",
+        "place": "Idhna"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2abfe7.geojson",
+        "place": "Ihnasiyyah al Madinah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m642313.geojson",
+        "place": "Iksal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbc4b77.geojson",
+        "place": "Ilanzura"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2564c2.geojson",
+        "place": "Imaret el Khureisheh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md1c5ba.geojson",
+        "place": "Imma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m23435b.geojson",
+        "place": "Indur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m144f46.geojson",
+        "place": "Indus River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m629bdb.geojson",
+        "place": "intersection of Kidron Valley and Valley of Hinnom"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8bc671.geojson",
+        "place": "Ionia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m74c680.geojson",
+        "place": "Iraq al Amir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m52bb94.geojson",
+        "place": "Iraq el Kharab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m286edc.geojson",
+        "place": "Isawiya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdbead2.geojson",
+        "place": "Ishan Mizyad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m62a3cc.geojson",
+        "place": "Islin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4c3dce.geojson",
+        "place": "Ismailia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8cf678.geojson",
+        "place": "Israelite Tower"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfd02fc.geojson",
+        "place": "Izalla"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf0b0ed.geojson",
+        "place": "Izbet Sartah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1876bb.geojson",
+        "place": "Izmir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb1da27.geojson",
+        "place": "Jaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4d1277.geojson",
+        "place": "Jabal al Lawz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mad096a.geojson",
+        "place": "Jabal al Magharah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf34f22.geojson",
+        "place": "Jabal al Murr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m25a76c.geojson",
+        "place": "Jabal al Naba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6e08ca.geojson",
+        "place": "Jabal Ataqah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mee86ac.geojson",
+        "place": "Jabal Harb"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m574018.geojson",
+        "place": "Jabal Huwayti"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m312e5c.geojson",
+        "place": "Jabal Jinayfah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md89371.geojson",
+        "place": "Jabal Maryam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m841f6c.geojson",
+        "place": "Jab’a"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcb49f3.geojson",
+        "place": "Jaffa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4c90cf.geojson",
+        "place": "Jaffa Gate"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m468f4d.geojson",
+        "place": "Jebel Abu Hasa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mec700a.geojson",
+        "place": "Jebel Akkar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbfa260.geojson",
+        "place": "Jebel Aqra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9f38df.geojson",
+        "place": "Jebel Aradeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma43a68.geojson",
+        "place": "Jebel Araif en Nakah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8136bc.geojson",
+        "place": "Jebel Asur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfaeab5.geojson",
+        "place": "Jebel Ataruz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1dc3a0.geojson",
+        "place": "Jebel Druze"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m64de18.geojson",
+        "place": "Jebel el Biri"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mabd3be.geojson",
+        "place": "Jebel el Hamrah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4fc803.geojson",
+        "place": "Jebel el Kabir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf3eae1.geojson",
+        "place": "Jebel el Musraq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m854cf3.geojson",
+        "place": "Jebel el Na‘ameh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m681aef.geojson",
+        "place": "Jebel esh Shera"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma33762.geojson",
+        "place": "Jebel es Sabha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8e169f.geojson",
+        "place": "Jebel et Tur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3936f5.geojson",
+        "place": "Jebel Feiran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m91f093.geojson",
+        "place": "Jebel Halal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m026471.geojson",
+        "place": "Jebel Halaq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0c2d62.geojson",
+        "place": "Jebel Hashem el Tarif"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me89f58.geojson",
+        "place": "Jebel Katherina"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb374b4.geojson",
+        "place": "Jebel Musa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8dec05.geojson",
+        "place": "Jebel Nebi Harun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7aba95.geojson",
+        "place": "Jebel Osha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcb809c.geojson",
+        "place": "Jebel Salih"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdea236.geojson",
+        "place": "Jebel Salman"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb78572.geojson",
+        "place": "Jebel Serbal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1bfeb1.geojson",
+        "place": "Jebel Sin Bishar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1a17f8.geojson",
+        "place": "Jebel Umm al Aqarib"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m58ed36.geojson",
+        "place": "Jebel Umm el Bared"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b2d66.geojson",
+        "place": "Jebel Usdum"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m582106.geojson",
+        "place": "Jebel Yeleq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m702acc.geojson",
+        "place": "Jebel Zabadani"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m896140.geojson",
+        "place": "Jedireh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8cb9fa.geojson",
+        "place": "Jel‘ad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc6835c.geojson",
+        "place": "Jerabis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m23c9bd.geojson",
+        "place": "Jerash"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9b1996.geojson",
+        "place": "Jeruel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m66c5b8.geojson",
+        "place": "Jerusalem"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md11454.geojson",
+        "place": "Jett"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb1c0e5.geojson",
+        "place": "Jezirat Faraun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2b7883.geojson",
+        "place": "Jezreel Valley"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcf48ef.geojson",
+        "place": "Jezzine"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m746d56.geojson",
+        "place": "Jibiya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mda9249.geojson",
+        "place": "Jifna"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m34d981.geojson",
+        "place": "Jiljilyya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m85c404.geojson",
+        "place": "Jiljuliyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6ef353.geojson",
+        "place": "Jilya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2804fc.geojson",
+        "place": "Jimzu"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me7edbd.geojson",
+        "place": "Jordan River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8fcc34.geojson",
+        "place": "Jordan Valley"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m108e64.geojson",
+        "place": "Jumaiyil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m651138.geojson",
+        "place": "Kabul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2635fb.geojson",
+        "place": "Kafr Ana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3b580c.geojson",
+        "place": "Kafr Aqab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m37903f.geojson",
+        "place": "Kafr Aya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m71af3b.geojson",
+        "place": "Kafr Juna"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m66fe59.geojson",
+        "place": "Kafr Rai"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m991597.geojson",
+        "place": "Kafr Thulth"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3f310c.geojson",
+        "place": "Kaloi Limenes"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3b4604.geojson",
+        "place": "Kamid el Loz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m65f206.geojson",
+        "place": "Karkagheisch"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdff682.geojson",
+        "place": "Karkheh River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m02b936.geojson",
+        "place": "Karm er Ras"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mebc554.geojson",
+        "place": "Karpathos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbfc6a2.geojson",
+        "place": "Karun River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3cab9d.geojson",
+        "place": "Kathrabba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m156588.geojson",
+        "place": "Kavala"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8bb3e9.geojson",
+        "place": "Kebara Swamps"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf07963.geojson",
+        "place": "Kechries"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m42ac18.geojson",
+        "place": "Kefr Anau"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma43757.geojson",
+        "place": "Kefr Kenna"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m67fe04.geojson",
+        "place": "Kefr Yasif"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcbaccd.geojson",
+        "place": "Kerak"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m25aed2.geojson",
+        "place": "Kermanshah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc076de.geojson",
+        "place": "Kerti Hüyük"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb905e4.geojson",
+        "place": "Kesla"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m09c5ef.geojson",
+        "place": "Khabur River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8ad95e.geojson",
+        "place": "Khallat el Ajuz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m843146.geojson",
+        "place": "Khanazir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mef7914.geojson",
+        "place": "Khan el Ahmar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfa6017.geojson",
+        "place": "Khan el Hatrur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2ae686.geojson",
+        "place": "Khan el Lubban"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdfba8c.geojson",
+        "place": "Kharas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcf2b79.geojson",
+        "place": "Khirbat al Beiyudat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m016ac4.geojson",
+        "place": "Khirbet Abu Mudawwar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me4f7c8.geojson",
+        "place": "Khirbet Abu Musarrah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m69807c.geojson",
+        "place": "Khirbet Abu Shaban"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb1aeb3.geojson",
+        "place": "Khirbet Abu Tabaq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m71be41.geojson",
+        "place": "Khirbet Abu Tulul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbbf7eb.geojson",
+        "place": "Khirbet Adasa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me2a356.geojson",
+        "place": "Khirbet Ai"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me990f8.geojson",
+        "place": "Khirbet al Balua"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m051570.geojson",
+        "place": "Khirbet al Bira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m52be1c.geojson",
+        "place": "Khirbet al Hadab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6df964.geojson",
+        "place": "Khirbet Alin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8b49f2.geojson",
+        "place": "Khirbet al Mahalib"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m71a823.geojson",
+        "place": "Khirbet Almit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdfc4a9.geojson",
+        "place": "Khirbet al Mukhayyat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4813c9.geojson",
+        "place": "Khirbet al Simia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0288d5.geojson",
+        "place": "Khirbet al Yahud"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md1381e.geojson",
+        "place": "Khirbet Anab al Kabir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcffb24.geojson",
+        "place": "Khirbet Anab es Seghireh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m63c688.geojson",
+        "place": "Khirbet Anim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma5b0a8.geojson",
+        "place": "Khirbet ‘Ara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m020ed9.geojson",
+        "place": "Khirbet a Ra’i"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m51f61c.geojson",
+        "place": "Khirbet Aro’er"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m53aaf8.geojson",
+        "place": "Khirbet ar Ras"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcfd3eb.geojson",
+        "place": "Khirbet Asan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbdd01a.geojson",
+        "place": "Khirbet Atara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9ce4af.geojson",
+        "place": "Khirbet Ataruz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8a3087.geojson",
+        "place": "Khirbet Attir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7624ff.geojson",
+        "place": "Khirbet Ayun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b366e.geojson",
+        "place": "Khirbet Ayun Musa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m66ea0c.geojson",
+        "place": "Khirbet Badd Faluh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4b29ef.geojson",
+        "place": "Khirbet Banat Barr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4f28ee.geojson",
+        "place": "Khirbet Bani Dar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5b9e13.geojson",
+        "place": "Khirbet Batneh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m633a44.geojson",
+        "place": "Khirbet Beit Amra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma7c5ee.geojson",
+        "place": "Khirbet Beit Anun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m354756.geojson",
+        "place": "Khirbet Beit Fasal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma31a83.geojson",
+        "place": "Khirbet Beit Ika"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mecc3c0.geojson",
+        "place": "Khirbet Beit Jann"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma1b417.geojson",
+        "place": "Khirbet Beit Lei"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf65c37.geojson",
+        "place": "Khirbet Beit Maqdum"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4905aa.geojson",
+        "place": "Khirbet Beit Mizza"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me70c0c.geojson",
+        "place": "Khirbet Beit Nesib esh Sharqiyyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfe8eb2.geojson",
+        "place": "Khirbet Belameh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8ded6d.geojson",
+        "place": "Khirbet Bereikut"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6d35b1.geojson",
+        "place": "Khirbet Bessum"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m034c0f.geojson",
+        "place": "Khirbet Bir Zeit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mabdf1d.geojson",
+        "place": "Khirbet Bism"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9a6aa4.geojson",
+        "place": "Khirbet Buqei Dan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8b07e3.geojson",
+        "place": "Khirbet Buseima"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m30e76f.geojson",
+        "place": "Khirbet Buweib"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md7e418.geojson",
+        "place": "Khirbet Dajun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m80e219.geojson",
+        "place": "Khirbet Damun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb02dce.geojson",
+        "place": "Khirbet Da‘uk"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m26c176.geojson",
+        "place": "Khirbet Deir Abu Kabus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m173aa0.geojson",
+        "place": "Khirbet Deir esh Shams"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc33ba8.geojson",
+        "place": "Khirbet Deir es Sidd"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1dd2b9.geojson",
+        "place": "Khirbet Deir Shubeib"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meab671.geojson",
+        "place": "Khirbet Dhubab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m71c96a.geojson",
+        "place": "Khirbet Dufnah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m600bb7.geojson",
+        "place": "Khirbet ed Dawwara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m553f4d.geojson",
+        "place": "Khirbet ed Deir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m384043.geojson",
+        "place": "Khirbet ed Dilb"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0da21a.geojson",
+        "place": "Khirbet ed Dir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md32cc7.geojson",
+        "place": "Khirbet ed Duweir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m53c8b9.geojson",
+        "place": "Khirbet edh Dheiba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m629d7c.geojson",
+        "place": "Khirbet Ein Fara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3a5f36.geojson",
+        "place": "Khirbet Einun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0acbcf.geojson",
+        "place": "Khirbet el Alya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m710dd6.geojson",
+        "place": "Khirbet el Ater"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb5007c.geojson",
+        "place": "Khirbet el Aujah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc06f57.geojson",
+        "place": "Khirbet el Aujah el Foqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m931336.geojson",
+        "place": "Khirbet el Aujah et Tahta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1bde9c.geojson",
+        "place": "Khirbet el Ayash"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m605d72.geojson",
+        "place": "Khirbet el Biar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2813c9.geojson",
+        "place": "Khirbet el Bira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8d753d.geojson",
+        "place": "Khirbet el Burj"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbca505.geojson",
+        "place": "Khirbet el Fuliya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma365e4.geojson",
+        "place": "Khirbet el Ghashina"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc04a32.geojson",
+        "place": "Khirbet el Hadatha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0e49d8.geojson",
+        "place": "Khirbet el Hamam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcb28e1.geojson",
+        "place": "Khirbet el Hara el Fawqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma68969.geojson",
+        "place": "Khirbet el Harazan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maafb10.geojson",
+        "place": "Khirbet el Harithiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc23d2c.geojson",
+        "place": "Khirbet el Hos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8c5045.geojson",
+        "place": "Khirbet el Hubeila"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meea8c6.geojson",
+        "place": "Khirbet el Huwarah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9c165a.geojson",
+        "place": "Khirbet el Jemeijimeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf47364.geojson",
+        "place": "Khirbet el Judeideh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6703bb.geojson",
+        "place": "Khirbet el Kefireh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdeec8e.geojson",
+        "place": "Khirbet el Khokh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m74a4ea.geojson",
+        "place": "Khirbet el Kirmil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m555663.geojson",
+        "place": "Khirbet el Kufeir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma29530.geojson",
+        "place": "Khirbet el Lon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me2fd7b.geojson",
+        "place": "Khirbet el Makhbiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma8cf35.geojson",
+        "place": "Khirbet el Mansurah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7c1213.geojson",
+        "place": "Khirbet el Maqari"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maeb1dc.geojson",
+        "place": "Khirbet el Maqatir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m738ed2.geojson",
+        "place": "Khirbet el Marajim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfe4d03.geojson",
+        "place": "Khirbet el Mazari’a"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mffb2d6.geojson",
+        "place": "Khirbet el Medeineh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb2b340.geojson",
+        "place": "Khirbet el Medeiyineh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma342c0.geojson",
+        "place": "Khirbet el Mefjir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2119be.geojson",
+        "place": "Khirbet el Mejdel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m813647.geojson",
+        "place": "Khirbet el Mejdeleh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcf60ee.geojson",
+        "place": "Khirbet el Muhatta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcb0fbb.geojson",
+        "place": "Khirbet el Mukheizin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc3372d.geojson",
+        "place": "Khirbet el Musheirifeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf10950.geojson",
+        "place": "Khirbet el Qaryatein"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1774fc.geojson",
+        "place": "Khirbet el Qar’a"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3c0a28.geojson",
+        "place": "Khirbet el Qom"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6e6e9b.geojson",
+        "place": "Khirbet el Qubba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma40e88.geojson",
+        "place": "Khirbet el Qudeirat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7fba7d.geojson",
+        "place": "Khirbet el Qureiye"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcbfe77.geojson",
+        "place": "Khirbet el Qureiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m740e01.geojson",
+        "place": "Khirbet el Quweiqiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1a2cc7.geojson",
+        "place": "Khirbet el Rujm"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1b9a63.geojson",
+        "place": "Khirbet el Udeise"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m112962.geojson",
+        "place": "Khirbet el Waten"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6d0c02.geojson",
+        "place": "Khirbet el Yadudeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4a0a5b.geojson",
+        "place": "Khirbet el ’Id"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m45592a.geojson",
+        "place": "Khirbet en Nabi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m165f71.geojson",
+        "place": "Khirbet en Nabi Bulus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf594c1.geojson",
+        "place": "Khirbet en Nahas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0049f9.geojson",
+        "place": "Khirbet en Najjar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m61740b.geojson",
+        "place": "Khirbet en Nasara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m956ef3.geojson",
+        "place": "Khirbet en Nitleh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf63dc1.geojson",
+        "place": "Khirbet en Nuweiti"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0431fc.geojson",
+        "place": "Khirbet Erha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mde0649.geojson",
+        "place": "Khirbet Erqa Saqra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3542bf.geojson",
+        "place": "Khirbet er Rabiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mee0e2f.geojson",
+        "place": "Khirbet er Raqqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m05f542.geojson",
+        "place": "Khirbet er Ras"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfcf16e.geojson",
+        "place": "Khirbet er Rasuni"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m222887.geojson",
+        "place": "Khirbet esh Shamsaniyat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m54ac94.geojson",
+        "place": "Khirbet esh Sheikh Ghazi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m52af08.geojson",
+        "place": "Khirbet esh Sheikh Ibrahim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2d769d.geojson",
+        "place": "Khirbet esh Sheikh Madhkur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m39107b.geojson",
+        "place": "Khirbet esh Shiba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3f130c.geojson",
+        "place": "Khirbet esh Shuna"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m28e9df.geojson",
+        "place": "Khirbet es Safsafa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m52acf7.geojson",
+        "place": "Khirbet es Samra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m771704.geojson",
+        "place": "Khirbet es Samrah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf5e945.geojson",
+        "place": "Khirbet es Sira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5e9487.geojson",
+        "place": "Khirbet es Sireh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me05cc2.geojson",
+        "place": "Khirbet es Siyar el Ghanam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5c006c.geojson",
+        "place": "Khirbet es Siyyagh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me5d4ed.geojson",
+        "place": "Khirbet es Suq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mae3962.geojson",
+        "place": "Khirbet et Tabbaneh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9dbf94.geojson",
+        "place": "Khirbet et Taiyiba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1f0e6a.geojson",
+        "place": "Khirbet et Teim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md98d47.geojson",
+        "place": "Khirbet et Tell"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1b2999.geojson",
+        "place": "Khirbet et Tubeiqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma4d480.geojson",
+        "place": "Khirbet ez Zawiya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m51dd81.geojson",
+        "place": "Khirbet ez Zeifeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcd525c.geojson",
+        "place": "Khirbet Fasayil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7ef92e.geojson",
+        "place": "Khirbet Fattuh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfed480.geojson",
+        "place": "Khirbet Faynan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6a7f72.geojson",
+        "place": "Khirbet Fered"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me45184.geojson",
+        "place": "Khirbet Fuqeiqis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3348d5.geojson",
+        "place": "Khirbet Ghuweina el Fauqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma056cd.geojson",
+        "place": "Khirbet Haiyan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m765dcc.geojson",
+        "place": "Khirbet Hamid"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0a99ab.geojson",
+        "place": "Khirbet Hamideh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mda62fe.geojson",
+        "place": "Khirbet Hamzeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb5d722.geojson",
+        "place": "Khirbet Harsis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m578ab4.geojson",
+        "place": "Khirbet Hasan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc6365d.geojson",
+        "place": "Khirbet Hazzur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5b3c96.geojson",
+        "place": "Khirbet Hebra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb7457d.geojson",
+        "place": "Khirbet Hirsha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mef1743.geojson",
+        "place": "Khirbet Hora"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m46b1b4.geojson",
+        "place": "Khirbet Huran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma3d35b.geojson",
+        "place": "Khirbet Ibn Baraq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m62d2f9.geojson",
+        "place": "Khirbet Ibn Naser"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mef8a69.geojson",
+        "place": "Khirbet Ibtin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf2c1fd.geojson",
+        "place": "Khirbet Ibziq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m28e80a.geojson",
+        "place": "Khirbet Id el Minya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbd0d86.geojson",
+        "place": "Khirbet Idma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfac68f.geojson",
+        "place": "Khirbet Irbadeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m339461.geojson",
+        "place": "Khirbet Iskander"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6ccac9.geojson",
+        "place": "Khirbet Jadurah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m471112.geojson",
+        "place": "Khirbet Jala"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m58f5a3.geojson",
+        "place": "Khirbet Jaljul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mefdada.geojson",
+        "place": "Khirbet Jazzir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m10cac8.geojson",
+        "place": "Khirbet Jedireh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m23db5e.geojson",
+        "place": "Khirbet Jedur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7bc13e.geojson",
+        "place": "Khirbet Jelameh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb4119d.geojson",
+        "place": "Khirbet Jubeiha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m12bf64.geojson",
+        "place": "Khirbet Judeida"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8f16f8.geojson",
+        "place": "Khirbet Judeira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3b782e.geojson",
+        "place": "Khirbet Judraya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5370b8.geojson",
+        "place": "Khirbet Kafr Ana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9584c0.geojson",
+        "place": "Khirbet Kafr Jul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b1e6b.geojson",
+        "place": "Khirbet Kakul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me7e68b.geojson",
+        "place": "Khirbet Kan’an"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4e5f05.geojson",
+        "place": "Khirbet Karraza"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me836d9.geojson",
+        "place": "Khirbet Khallat Sam’a"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbc6d8b.geojson",
+        "place": "Khirbet Khamasa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7f4729.geojson",
+        "place": "Khirbet Kheishum"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb1a2b2.geojson",
+        "place": "Khirbet Khishash ed Deir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meea17f.geojson",
+        "place": "Khirbet Khureise"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5ed9eb.geojson",
+        "place": "Khirbet Kuseife"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma7acf2.geojson",
+        "place": "Khirbet Kuweiziba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma11565.geojson",
+        "place": "Khirbet Libb"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7470bc.geojson",
+        "place": "Khirbet Madin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m73ed74.geojson",
+        "place": "Khirbet Makhaz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m066eb7.geojson",
+        "place": "Khirbet Marah el Inab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf8005e.geojson",
+        "place": "Khirbet Marjame"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1a9619.geojson",
+        "place": "Khirbet Marus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md6d253.geojson",
+        "place": "Khirbet Mehna"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7ecccc.geojson",
+        "place": "Khirbet Meidan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m92b31d.geojson",
+        "place": "Khirbet Mezara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m51f0e2.geojson",
+        "place": "Khirbet Minyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4a302d.geojson",
+        "place": "Khirbet Mugheir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0382c1.geojson",
+        "place": "Khirbet Muleh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdc66d1.geojson",
+        "place": "Khirbet Musrab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma6ae0f.geojson",
+        "place": "Khirbet Nefaah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b2506.geojson",
+        "place": "Khirbet Niha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb3b1ec.geojson",
+        "place": "Khirbet Nimreh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3b3ebc.geojson",
+        "place": "Khirbet Nisieh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mda572b.geojson",
+        "place": "Khirbet Qanan Mugheimis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf89ddb.geojson",
+        "place": "Khirbet Qatamun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m946fef.geojson",
+        "place": "Khirbet Qedish"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma10bc8.geojson",
+        "place": "Khirbet Qeiyafa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb65966.geojson",
+        "place": "Khirbet Qila"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m50ec84.geojson",
+        "place": "Khirbet Qufin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf18b52.geojson",
+        "place": "Khirbet Qutteina"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma06d55.geojson",
+        "place": "Khirbet Rabud"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3b4f65.geojson",
+        "place": "Khirbet Raddana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf9827e.geojson",
+        "place": "Khirbet Ras at Tawil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb7e1e6.geojson",
+        "place": "Khirbet Sabiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m932e27.geojson",
+        "place": "Khirbet Safiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m934b82.geojson",
+        "place": "Khirbet Salah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me867d9.geojson",
+        "place": "Khirbet Salhab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meb51a3.geojson",
+        "place": "Khirbet Samara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf176a6.geojson",
+        "place": "Khirbet Sara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4a7dca.geojson",
+        "place": "Khirbet Sarona"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m12f296.geojson",
+        "place": "Khirbet Seilun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mba5378.geojson",
+        "place": "Khirbet Serada"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md02dab.geojson",
+        "place": "Khirbet Shab Salah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3ddc20.geojson",
+        "place": "Khirbet Shifat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m60fff1.geojson",
+        "place": "Khirbet Shumeila"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbd896c.geojson",
+        "place": "Khirbet Shuweikah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6c43bf.geojson",
+        "place": "Khirbet Shuweikat er Ras"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcde611.geojson",
+        "place": "Khirbet Sirisye"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m82e254.geojson",
+        "place": "Khirbet Sumara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m66cd47.geojson",
+        "place": "Khirbet Summeily"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m40c3db.geojson",
+        "place": "Khirbet Suweimeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m99eb3d.geojson",
+        "place": "Khirbet Tafsah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me4950b.geojson",
+        "place": "Khirbet Taiyibeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb1e1d7.geojson",
+        "place": "Khirbet Tana el Fauqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1ee8b0.geojson",
+        "place": "Khirbet Tana et Tahta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m463f45.geojson",
+        "place": "Khirbet Tarafayn"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md6ea3b.geojson",
+        "place": "Khirbet Tarrama"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5d99f8.geojson",
+        "place": "Khirbet Tatrit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m24a982.geojson",
+        "place": "Khirbet Teku’a"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me233de.geojson",
+        "place": "Khirbet Tibnah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2adb90.geojson",
+        "place": "Khirbet Tililiya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1e912f.geojson",
+        "place": "Khirbet Udena"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mae4fc5.geojson",
+        "place": "Khirbet Umm al Baqar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m18a77f.geojson",
+        "place": "Khirbet Umm ed Demineh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc16e40.geojson",
+        "place": "Khirbet Umm edh Dhiyab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m86ff07.geojson",
+        "place": "Khirbet Umm el Amad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m70b396.geojson",
+        "place": "Khirbet Umm el Idham"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mee9587.geojson",
+        "place": "Khirbet Umm er Rammamin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m72df71.geojson",
+        "place": "Khirbet Umm es Salafe"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf81851.geojson",
+        "place": "Khirbet Umm Jina"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m613c2e.geojson",
+        "place": "Khirbet Umm Lasafa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m88b428.geojson",
+        "place": "Khirbet Urmah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m26e38a.geojson",
+        "place": "Khirbet Wadi Illin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m056b9b.geojson",
+        "place": "Khirbet Yanin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7e420c.geojson",
+        "place": "Khirbet Yanun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma12137.geojson",
+        "place": "Khirbet Zanu"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6494e7.geojson",
+        "place": "Khirbet Zanuta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m92f044.geojson",
+        "place": "Khirbet Zeitun er Rameh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me06e95.geojson",
+        "place": "Khirbet Zuheiliqah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m771c29.geojson",
+        "place": "Kibrit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma5f44f.geojson",
+        "place": "Kidron River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb3f336.geojson",
+        "place": "King’s Highway"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbcae83.geojson",
+        "place": "Kishon River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mea83bf.geojson",
+        "place": "Kokab el Hawa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0052f9.geojson",
+        "place": "Kom Yajuz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5ff141.geojson",
+        "place": "Konya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md321d4.geojson",
+        "place": "Kos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maf7dea.geojson",
+        "place": "Krak Canatha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meb2c94.geojson",
+        "place": "Kullan Köy"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8a4637.geojson",
+        "place": "Kuntilet el Jerafi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf81ba4.geojson",
+        "place": "Kuntillet Ajrud"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfd0df0.geojson",
+        "place": "Kura River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7767c8.geojson",
+        "place": "Kursi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m144e28.geojson",
+        "place": "Labau"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb4a1d5.geojson",
+        "place": "Labweh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0784ed.geojson",
+        "place": "Lahun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m555d8f.geojson",
+        "place": "Lajat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md61725.geojson",
+        "place": "Lake Bardawil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m581086.geojson",
+        "place": "Lake Huleh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0f0213.geojson",
+        "place": "Lake Manzala"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf9ae18.geojson",
+        "place": "Lake Timsah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m63822c.geojson",
+        "place": "Lake Urmia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m597755.geojson",
+        "place": "Laodicea on the Lycus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m171dc0.geojson",
+        "place": "Larsa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb61e8a.geojson",
+        "place": "Lasaea"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5305fd.geojson",
+        "place": "Lejjun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0ad6d5.geojson",
+        "place": "Lifta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me81f9f.geojson",
+        "place": "Lissos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4a3d57.geojson",
+        "place": "Listib"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1b71cf.geojson",
+        "place": "Litani River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2b1a3a.geojson",
+        "place": "Lod"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m549398.geojson",
+        "place": "Louaize"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m53a930.geojson",
+        "place": "Loutro"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf7330e.geojson",
+        "place": "Lubban Sherqujeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb0b198.geojson",
+        "place": "Lubya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mde4c72.geojson",
+        "place": "Luweizeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4b7659.geojson",
+        "place": "Lycaonia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9f6e4f.geojson",
+        "place": "Lycia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me5a5eb.geojson",
+        "place": "Macedonia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m035ff3.geojson",
+        "place": "Madaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m101cb4.geojson",
+        "place": "Madaba Plateau"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb5e7c4.geojson",
+        "place": "Mahd adh Dhahab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbc7ae2.geojson",
+        "place": "Ma‘in"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8d5a65.geojson",
+        "place": "Majadel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m516e72.geojson",
+        "place": "Majdal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m637584.geojson",
+        "place": "Majdel Selem"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m33f0d3.geojson",
+        "place": "Majdel Yaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcc8f43.geojson",
+        "place": "Makhadhet Abarah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0ef9e3.geojson",
+        "place": "Makrun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2672d3.geojson",
+        "place": "Malta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6beb29.geojson",
+        "place": "Mar Elias"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4f224b.geojson",
+        "place": "Marjaayoun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4897ac.geojson",
+        "place": "Marjayoun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m949860.geojson",
+        "place": "Maroun al Ras"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me64828.geojson",
+        "place": "Mar Saba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3f5026.geojson",
+        "place": "marsh west of the Bitter Lakes"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m88807a.geojson",
+        "place": "Masada"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m65eaec.geojson",
+        "place": "Mashhad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m23ce84.geojson",
+        "place": "Massa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me0517f.geojson",
+        "place": "Mazra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb37f3a.geojson",
+        "place": "Ma’ale Adummim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2ce754.geojson",
+        "place": "Ma’ale Akrabbim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc76c1b.geojson",
+        "place": "Ma’alul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m290b1e.geojson",
+        "place": "Ma’an"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me95c9a.geojson",
+        "place": "Medeineh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7e4070.geojson",
+        "place": "Medinet er Ras"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me7cb2d.geojson",
+        "place": "Mediterranean Sea"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma526b3.geojson",
+        "place": "Meiron"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m02ea33.geojson",
+        "place": "Memphis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me7b1fa.geojson",
+        "place": "Merj Ekkeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9982d9.geojson",
+        "place": "Meroe"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m95db54.geojson",
+        "place": "Mesčin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m09d033.geojson",
+        "place": "Mesene"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcfffae.geojson",
+        "place": "Meshraqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m64cc7d.geojson",
+        "place": "Mesudat Ein Qedeis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mff1fdf.geojson",
+        "place": "Mesudat Har Hemet"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m96f630.geojson",
+        "place": "Metula"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m080e83.geojson",
+        "place": "Mezad Gozal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5dd1f8.geojson",
+        "place": "Mezad Refed"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m886d32.geojson",
+        "place": "Mezad Tamar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7ee55a.geojson",
+        "place": "Mezudat Sheluhat Qadesh Barnea"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcf7752.geojson",
+        "place": "Miletus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m95f21e.geojson",
+        "place": "Minieh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m771405.geojson",
+        "place": "Misna"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma9a0ef.geojson",
+        "place": "Mocha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meb203b.geojson",
+        "place": "Mons Masius"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbb4e1d.geojson",
+        "place": "mountains southwest of the Dead Sea"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6fa42d.geojson",
+        "place": "Mount Amana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf9b7d7.geojson",
+        "place": "Mount Carmel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc1032c.geojson",
+        "place": "Mount Ebal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m846c1f.geojson",
+        "place": "Mount Gerizim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1232ec.geojson",
+        "place": "Mount Gilboa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc78c4d.geojson",
+        "place": "Mount Hermon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf2e013.geojson",
+        "place": "Mount Kabir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m846f8b.geojson",
+        "place": "Mount Lebanon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m75b528.geojson",
+        "place": "Mount Meron"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6a8ed6.geojson",
+        "place": "Mount Moriah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me461ba.geojson",
+        "place": "Mount of Olives"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0252b4.geojson",
+        "place": "Mount Zion"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m778101.geojson",
+        "place": "mouth of Nahr al Kassarah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8ad145.geojson",
+        "place": "mouth of the Kishon River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf63b4b.geojson",
+        "place": "mouth of the Tigris River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m89ea7f.geojson",
+        "place": "mouth of Wadi Jirafi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m63b310.geojson",
+        "place": "mouth of Wadi Mujib"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma56250.geojson",
+        "place": "Mughar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m40f9b6.geojson",
+        "place": "Muhayy"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m41fa55.geojson",
+        "place": "Mukhmas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m07bd90.geojson",
+        "place": "Mutraba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m189d38.geojson",
+        "place": "Myra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m58cfaf.geojson",
+        "place": "Mysia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0f36d0.geojson",
+        "place": "Nabi Salih"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m17b4ff.geojson",
+        "place": "Nabi Samwil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcfd44e.geojson",
+        "place": "Nahal Amud"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9547d7.geojson",
+        "place": "Nahal Arbel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma464b9.geojson",
+        "place": "Nahal Avnon Fortress"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me6ce5d.geojson",
+        "place": "Nahal Azal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m99e9c8.geojson",
+        "place": "Nahal Daliyya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m10a103.geojson",
+        "place": "Nahal Dishon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m59af06.geojson",
+        "place": "Nahal Gerar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m98a072.geojson",
+        "place": "Nahal Guvrin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m69a064.geojson",
+        "place": "Nahal HaBesor"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m54e816.geojson",
+        "place": "Nahal Mikhmash"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m845f5a.geojson",
+        "place": "Nahal Sorek"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbcb68c.geojson",
+        "place": "Nahal Tabor"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfb5941.geojson",
+        "place": "Nahal Taninim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m10da0a.geojson",
+        "place": "Nahal Yarmut"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1824ed.geojson",
+        "place": "Nahal Yattir 205"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m630b1d.geojson",
+        "place": "Nahavand"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me0b42d.geojson",
+        "place": "Najran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m249c41.geojson",
+        "place": "Naqb al Biyar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1d589c.geojson",
+        "place": "Naur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb3f688.geojson",
+        "place": "Nazareth"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc059af.geojson",
+        "place": "Na’ura"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4ba77e.geojson",
+        "place": "near the mouth of the Jordan River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0b02a7.geojson",
+        "place": "Nein"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m99f73c.geojson",
+        "place": "Nekhel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8224e7.geojson",
+        "place": "Neve Ilan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m039ea4.geojson",
+        "place": "New Paphos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma7fa5c.geojson",
+        "place": "Nicopolis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m91acfa.geojson",
+        "place": "Nile River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcc38e2.geojson",
+        "place": "Nimrin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maa532c.geojson",
+        "place": "Nimrud"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m52bd87.geojson",
+        "place": "Nineveh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m496ea5.geojson",
+        "place": "Nippur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m65e64e.geojson",
+        "place": "Nisibis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m749812.geojson",
+        "place": "northern wall of Jerusalem"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m56a09d.geojson",
+        "place": "north of the Dead Sea"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b442d.geojson",
+        "place": "Nuba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9c42da.geojson",
+        "place": "Numeira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6785e9.geojson",
+        "place": "Nur Mountains"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m941775.geojson",
+        "place": "Olam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdd0bed.geojson",
+        "place": "Oman"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m17d528.geojson",
+        "place": "Ophel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m67252f.geojson",
+        "place": "Opis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me0645b.geojson",
+        "place": "Oren"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6d87c0.geojson",
+        "place": "Palmyra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m734ef6.geojson",
+        "place": "Pamphylia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md3087e.geojson",
+        "place": "Paran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb6a27e.geojson",
+        "place": "Pardes Hanna Karkur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcb8622.geojson",
+        "place": "Patara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5c4548.geojson",
+        "place": "Patmos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfd46de.geojson",
+        "place": "Pelusiac branch of the Nile"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me63472.geojson",
+        "place": "Perga"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m16099a.geojson",
+        "place": "Pergamon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m777895.geojson",
+        "place": "Persian Gulf"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mec5201.geojson",
+        "place": "Philippi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m76ec6b.geojson",
+        "place": "Phrygia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8e4849.geojson",
+        "place": "plain between Taanach and Megiddo"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me21b7f.geojson",
+        "place": "plain between the Tigris River and Elam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me3cdde.geojson",
+        "place": "plain near Jabal Jinayfah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mac7629.geojson",
+        "place": "plateau east of Rammun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m220f70.geojson",
+        "place": "Pontus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m48007f.geojson",
+        "place": "Pool of Bethesda"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m068207.geojson",
+        "place": "Pool of Siloam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1864ac.geojson",
+        "place": "Poovar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m45cb10.geojson",
+        "place": "Pozzuoli"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8970e8.geojson",
+        "place": "Qadisiyah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md8e887.geojson",
+        "place": "Qalaichi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m79cc55.geojson",
+        "place": "Qalat es Subeibeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m639fec.geojson",
+        "place": "Qalunya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma1df2b.geojson",
+        "place": "Qamm"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mea50a6.geojson",
+        "place": "Qana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m612cff.geojson",
+        "place": "Qanawat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m53b227.geojson",
+        "place": "Qantir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md4d924.geojson",
+        "place": "Qarn al Qubish"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3d8db3.geojson",
+        "place": "Qarn Hattin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb5a99a.geojson",
+        "place": "Qarn Sartaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfa2f6d.geojson",
+        "place": "Qarqar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m253caf.geojson",
+        "place": "Qaryat as Salamiyah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mebf30f.geojson",
+        "place": "Qashr el Yahud"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mce313b.geojson",
+        "place": "Qasr ez Za’feran I"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0af4d6.geojson",
+        "place": "Qatra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb01d09.geojson",
+        "place": "Qa’an Naqb"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m80cdfd.geojson",
+        "place": "Qibya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma36bc2.geojson",
+        "place": "Qoseimeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m47272b.geojson",
+        "place": "Qumeim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9c3ada.geojson",
+        "place": "Qumran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m303628.geojson",
+        "place": "Qusin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m095a7e.geojson",
+        "place": "Qu’meh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6f51f7.geojson",
+        "place": "Raba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m10d1d8.geojson",
+        "place": "Rabba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me46ed1.geojson",
+        "place": "Rableh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me42258.geojson",
+        "place": "Rafat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0d7bb1.geojson",
+        "place": "Ramallah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m94f792.geojson",
+        "place": "Ramat el Khalil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m77f703.geojson",
+        "place": "Ramat Rahel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb74ba8.geojson",
+        "place": "Rameh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf5e563.geojson",
+        "place": "Ramla"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m77308e.geojson",
+        "place": "Rammun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m669e21.geojson",
+        "place": "Ramyah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m960e84.geojson",
+        "place": "Rantis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m693908.geojson",
+        "place": "Raphana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m666a45.geojson",
+        "place": "Ras Abu Hamid"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4e6d80.geojson",
+        "place": "Ras Abu Tabat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mede9e6.geojson",
+        "place": "Ras Baalbek"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdad39e.geojson",
+        "place": "Ras el Biyada"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m780cf1.geojson",
+        "place": "Ras el Kharruba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m400b59.geojson",
+        "place": "Ras el Kharube"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m09483e.geojson",
+        "place": "Ras el Mesharif"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5e6c65.geojson",
+        "place": "Ras es Safsafeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m857981.geojson",
+        "place": "Ras et Tahuneh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9f794c.geojson",
+        "place": "Ras et Tawil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9fd5a0.geojson",
+        "place": "Ras ez Zemara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m900d9a.geojson",
+        "place": "Rasm Dahina"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1e99db.geojson",
+        "place": "Rasm el Kushukliya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m701cd0.geojson",
+        "place": "Ras Rihab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m656236.geojson",
+        "place": "Ras Shaqqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6d98ed.geojson",
+        "place": "Ras Tumeim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m36b854.geojson",
+        "place": "Ras Umm et Tala"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5fab39.geojson",
+        "place": "Ras Zukeir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m366576.geojson",
+        "place": "Reggio Calabria"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdeb751.geojson",
+        "place": "region northeast of the Gulf of Aqaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m20ca99.geojson",
+        "place": "Regma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4b3ec6.geojson",
+        "place": "Resafa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meb41de.geojson",
+        "place": "Resappa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9d3ad7.geojson",
+        "place": "Resh Eni"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0a8581.geojson",
+        "place": "Rgm"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0d73da.geojson",
+        "place": "Rhodes"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m91aa48.geojson",
+        "place": "Rioni River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meb6b16.geojson",
+        "place": "road between Kadesh-barnea and Arad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md36a50.geojson",
+        "place": "road between the Dead Sea and Arad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8eda70.geojson",
+        "place": "road between the Dead Sea and the Gulf of Aqaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb083bc.geojson",
+        "place": "Rome"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m191987.geojson",
+        "place": "Rosh HaNikra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1049fd.geojson",
+        "place": "Rosh Zayit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m984753.geojson",
+        "place": "Ruheibeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc7cf8a.geojson",
+        "place": "Rujm al Hamri"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbf104b.geojson",
+        "place": "Rujm Ataruz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2c4507.geojson",
+        "place": "Rujm el Bahr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m64a773.geojson",
+        "place": "Rujm el Jilimeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me622ed.geojson",
+        "place": "Rujm el Meshrefeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbca614.geojson",
+        "place": "Rujm es Sabit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2c7090.geojson",
+        "place": "Rujm Shajarat al Hunayti"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m07d05e.geojson",
+        "place": "Rujm Siyaghah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m707927.geojson",
+        "place": "Rujm Talat az Zalma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf84eaf.geojson",
+        "place": "Rujum al Juththa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m97c628.geojson",
+        "place": "Rumana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m43a154.geojson",
+        "place": "Rummanah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m951680.geojson",
+        "place": "Sadad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m914c65.geojson",
+        "place": "Safad el Battikh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4433dc.geojson",
+        "place": "Sahab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m641784.geojson",
+        "place": "Saham al Jawlan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8c21f0.geojson",
+        "place": "Sahel Geba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m521458.geojson",
+        "place": "Sahl as Sahra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1e60f2.geojson",
+        "place": "Sahre al Gibiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3b3c28.geojson",
+        "place": "Sair"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md31e56.geojson",
+        "place": "Salamis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m97b90d.geojson",
+        "place": "Salbit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mde7fdc.geojson",
+        "place": "Salim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me01c5c.geojson",
+        "place": "Salkhad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m232ed8.geojson",
+        "place": "Salona"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me64af8.geojson",
+        "place": "Samaria"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2f36e0.geojson",
+        "place": "Samawah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m509072.geojson",
+        "place": "Samos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md84660.geojson",
+        "place": "Samothraki"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m436462.geojson",
+        "place": "Sanaa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfccaed.geojson",
+        "place": "Sandikli archaeological site in Sidon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meb4f0d.geojson",
+        "place": "Saq el Farwein"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m324585.geojson",
+        "place": "Sarafand el Kharab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4b41ea.geojson",
+        "place": "Sarandaj"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9f8a0e.geojson",
+        "place": "Sardinia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb0ee42.geojson",
+        "place": "Sardis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5d9754.geojson",
+        "place": "Sarepta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2f382d.geojson",
+        "place": "Saris"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma5c80b.geojson",
+        "place": "Sbalat Abu Susein"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m772f28.geojson",
+        "place": "Scythian Neapolis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0438ff.geojson",
+        "place": "Sea of Galilee"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maee99c.geojson",
+        "place": "Sedment"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m51eef7.geojson",
+        "place": "Sela"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m094b0c.geojson",
+        "place": "Seleucia Pieria"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mff65d3.geojson",
+        "place": "Seneh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m14916e.geojson",
+        "place": "Serabit el Khadim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7454a1.geojson",
+        "place": "Serit el Bella"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma8ce8b.geojson",
+        "place": "Seychelles"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc7de3d.geojson",
+        "place": "Shajarat el Kalb"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcc5f77.geojson",
+        "place": "Sharma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m010fd0.geojson",
+        "place": "Sharon Plain"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1d80b6.geojson",
+        "place": "Shatta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m83ef94.geojson",
+        "place": "Shatt en Nil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m06de45.geojson",
+        "place": "Sheba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m207212.geojson",
+        "place": "Sheikh Badr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2de4c4.geojson",
+        "place": "Sheikh esh Shamsawi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mba0fc3.geojson",
+        "place": "Sheikh ez Zuweid"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m31c72e.geojson",
+        "place": "Sheikh Mazghith"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6cfb9a.geojson",
+        "place": "Shephelah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m41f9ee.geojson",
+        "place": "Shilta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m14b384.geojson",
+        "place": "Shivta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3918d8.geojson",
+        "place": "Shoresh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5ebf84.geojson",
+        "place": "Shufat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9cb1d4.geojson",
+        "place": "Shush"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma87346.geojson",
+        "place": "Sicily"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0c0286.geojson",
+        "place": "Sidra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m664dd9.geojson",
+        "place": "Silat ad Dhahr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf1495c.geojson",
+        "place": "Sippar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m346d1b.geojson",
+        "place": "Sirin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m383ade.geojson",
+        "place": "Sleikhat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m076642.geojson",
+        "place": "Sofala"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbba3fa.geojson",
+        "place": "Sopara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m917b6c.geojson",
+        "place": "Souq Wadi Barada"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m17ad0a.geojson",
+        "place": "southern Jezreel Valley"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md642d9.geojson",
+        "place": "south of Hebron"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3edbe2.geojson",
+        "place": "south of the Lisan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m224548.geojson",
+        "place": "southwestern Arabia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me25924.geojson",
+        "place": "Sparta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma2f3b8.geojson",
+        "place": "Srifa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2aae23.geojson",
+        "place": "Sri Lanka"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfaa3c4.geojson",
+        "place": "Stepped Stone Structure"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb2d6b9.geojson",
+        "place": "Straight Street"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc42132.geojson",
+        "place": "Suf"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m012b38.geojson",
+        "place": "Sufeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5f63a8.geojson",
+        "place": "Sulam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m46fd78.geojson",
+        "place": "Sumatra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m329feb.geojson",
+        "place": "Sumia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf3284e.geojson",
+        "place": "Surdah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m76e9d9.geojson",
+        "place": "Sutnet er Ruheibeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2c7da0.geojson",
+        "place": "Suwwanet eth Thaniya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4f5a82.geojson",
+        "place": "Syracuse"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me47bf4.geojson",
+        "place": "T-211"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m743a5d.geojson",
+        "place": "Taba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m97a528.geojson",
+        "place": "Tabal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbbfbf9.geojson",
+        "place": "Tabgha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me36c0a.geojson",
+        "place": "Taffuh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2558cc.geojson",
+        "place": "Tafila"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbc637b.geojson",
+        "place": "Tal Afar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m538ee9.geojson",
+        "place": "Tal‘at ed Damm"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m88e0f9.geojson",
+        "place": "Tall al Ajjul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3bbe68.geojson",
+        "place": "Tall al Husun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2ac933.geojson",
+        "place": "Tall al Lahm"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0d6ead.geojson",
+        "place": "Tall al Meqbarah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m874804.geojson",
+        "place": "Tall al Qulzum"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m432f6a.geojson",
+        "place": "Tall al Umayri"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7cc2d3.geojson",
+        "place": "Tall Bleibel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m122dcf.geojson",
+        "place": "Tall Dhiban"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m37a078.geojson",
+        "place": "Tall el Hammam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mddda6a.geojson",
+        "place": "Tall el Mazar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m53b1e2.geojson",
+        "place": "Tall er Rama"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mba2ff1.geojson",
+        "place": "Tall er Rumeith"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m56a432.geojson",
+        "place": "Tall Iktanu"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2e40b3.geojson",
+        "place": "Tall Irbid"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma96621.geojson",
+        "place": "Tall Jalul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m11a95b.geojson",
+        "place": "Tall Kafrayn"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m88cf7d.geojson",
+        "place": "Tall Mustah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4b6ab1.geojson",
+        "place": "Tall Nimrin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc013b6.geojson",
+        "place": "Tanis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me08090.geojson",
+        "place": "Tarqumiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc9df1a.geojson",
+        "place": "Tarsus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me0e2d4.geojson",
+        "place": "Taurus Mountains"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb58c5d.geojson",
+        "place": "Tawahin el Sukkar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meb4627.geojson",
+        "place": "Tawilan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m590c60.geojson",
+        "place": "Taybeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m92a579.geojson",
+        "place": "Taylor Golgotha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma06c71.geojson",
+        "place": "Tayma"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1d43c6.geojson",
+        "place": "Tel Abel Beth Maacah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9678eb.geojson",
+        "place": "Tel Abu Seleimeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9f46c4.geojson",
+        "place": "Tel Achziv"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m500952.geojson",
+        "place": "Tel Adami"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb6076b.geojson",
+        "place": "Tel Afek"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf3d94c.geojson",
+        "place": "Tel Agra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m507218.geojson",
+        "place": "Telah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m93976e.geojson",
+        "place": "Telajeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mac4103.geojson",
+        "place": "Tel Akko"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m52fd08.geojson",
+        "place": "Tel Alil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m71585a.geojson",
+        "place": "Tel Alil West"
+      }
+    },
+    {
+      "0": {
+        "geojson": "med2628.geojson",
+        "place": "Tel al Mazar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdabd6c.geojson",
+        "place": "Tel Arad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf32c7d.geojson",
+        "place": "Tel Ashdod"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0a9529.geojson",
+        "place": "Tel Ashkelon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2bcf45.geojson",
+        "place": "Tel Avdon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m933d05.geojson",
+        "place": "Tel Azekah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc7f587.geojson",
+        "place": "Tel Batash"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m392188.geojson",
+        "place": "Tel Beer Sheva"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2af7af.geojson",
+        "place": "Tel Bet Shean"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7c5f02.geojson",
+        "place": "Tel Bet Shemesh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb61c67.geojson",
+        "place": "Tel Dan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m13789b.geojson",
+        "place": "Tel Dor"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8774a2.geojson",
+        "place": "Tel Dotan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m26533b.geojson",
+        "place": "Tel Dover"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me8ca72.geojson",
+        "place": "Tel Ein Gev"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7d8664.geojson",
+        "place": "Tel el Beida"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2797e4.geojson",
+        "place": "Tel el Butmeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m88819c.geojson",
+        "place": "Tel el Ful"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb63cde.geojson",
+        "place": "Tel Emek"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc8e6e1.geojson",
+        "place": "Tel Erani"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3a7f35.geojson",
+        "place": "Tel Esdar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b2add.geojson",
+        "place": "Tel Esur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m33c7a1.geojson",
+        "place": "Tel Far"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcf3b52.geojson",
+        "place": "Tel Gat Hefer"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0feee2.geojson",
+        "place": "Tel Gerisa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcd1a5c.geojson",
+        "place": "Tel Gezer"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2b72a1.geojson",
+        "place": "Tel Goded"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9a21be.geojson",
+        "place": "Tel Goren"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8c6a25.geojson",
+        "place": "Tel Govel"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mff5782.geojson",
+        "place": "Tel Habuwa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfa3426.geojson",
+        "place": "Tel Halif"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mabe7ea.geojson",
+        "place": "Tel Hanaton"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m73c038.geojson",
+        "place": "Tel Haraqim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "maaf3b2.geojson",
+        "place": "Tel Haror"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc7ecc2.geojson",
+        "place": "Tel Hasi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6429cf.geojson",
+        "place": "Tel Hazor"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5d4348.geojson",
+        "place": "Tel Hefer"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma832c2.geojson",
+        "place": "Tel Ira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc40778.geojson",
+        "place": "Tel Kabri"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m48684e.geojson",
+        "place": "Tel Kedesh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7aee43.geojson",
+        "place": "Tel Kelekh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma29c5f.geojson",
+        "place": "Tel Kinrot"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md42a9f.geojson",
+        "place": "Tell Abu el Kharaz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6152fc.geojson",
+        "place": "Tell Abu Hawam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m12c649.geojson",
+        "place": "Tell Abu Qedeis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m83f9b8.geojson",
+        "place": "Tell Abu Sefeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m108001.geojson",
+        "place": "Tell Abu Shahrain"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfd4ced.geojson",
+        "place": "Tell Abu Sus"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m94367d.geojson",
+        "place": "Tell Abu Zarad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m76fa4c.geojson",
+        "place": "Tell Afis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc9b6df.geojson",
+        "place": "Tell Ahmar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb397de.geojson",
+        "place": "Tell al Sheikh Isa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7ff2c3.geojson",
+        "place": "Tell Amr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdbdac8.geojson",
+        "place": "Tell Ashtara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m876cb0.geojson",
+        "place": "Tell as Sawafir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1de7f8.geojson",
+        "place": "Tell Aushariye"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcf8dbb.geojson",
+        "place": "Tell Azeimeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m657590.geojson",
+        "place": "Tell Balatah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me8dae9.geojson",
+        "place": "Tell Barsina"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5c4b2e.geojson",
+        "place": "Tell Bashir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m518e57.geojson",
+        "place": "Tell Basteh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6cb30d.geojson",
+        "place": "Tell Beit Mirsim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m96cadb.geojson",
+        "place": "Tell Belim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m93008b.geojson",
+        "place": "Tell Bezqa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0cfe50.geojson",
+        "place": "Tell Bir el Gharbi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma54af7.geojson",
+        "place": "Tell Bornat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2960b3.geojson",
+        "place": "Tell Dalhamiya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb2507f.geojson",
+        "place": "Tell Defenneh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1123d9.geojson",
+        "place": "Tell Deir Alla"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m15bc95.geojson",
+        "place": "Tell Dibbine"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me34143.geojson",
+        "place": "Tell ed Damiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma3a2f4.geojson",
+        "place": "Tell ed Der"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m31bdd9.geojson",
+        "place": "Tell ed Duweir"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m185801.geojson",
+        "place": "Tell edh Dhahab el Gharbi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m222ca7.geojson",
+        "place": "Tell edh Dhahab esh Sherqiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m662b52.geojson",
+        "place": "Tell el Ajjul"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdf4652.geojson",
+        "place": "Tell el Alayiq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2f901e.geojson",
+        "place": "Tell el Areme"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9b1ea2.geojson",
+        "place": "Tell el Askar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m925533.geojson",
+        "place": "Tell el Balat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m08bab0.geojson",
+        "place": "Tell el Borg"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma868d6.geojson",
+        "place": "Tell el Daba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md51198.geojson",
+        "place": "Tell el Ekhsas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma594e8.geojson",
+        "place": "Tell el Farah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6da49d.geojson",
+        "place": "Tell el Farama"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6129e7.geojson",
+        "place": "Tell el Ful"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m40fd5b.geojson",
+        "place": "Tell el Ghaltah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc1d54c.geojson",
+        "place": "Tell el Hamme"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m22cdaa.geojson",
+        "place": "Tell el Herr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m309c4d.geojson",
+        "place": "Tell el Hilu"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc3126b.geojson",
+        "place": "Tell el Jisr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m482f98.geojson",
+        "place": "Tell el Jurn"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfce9f4.geojson",
+        "place": "Tell el Kheleifeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0432ec.geojson",
+        "place": "Tell el Khirbeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m64cdb6.geojson",
+        "place": "Tell el Kokah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m234519.geojson",
+        "place": "Tell el Maqlub"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf20d69.geojson",
+        "place": "Tell el Maskhuta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1a0069.geojson",
+        "place": "Tell el Meleiha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbdf553.geojson",
+        "place": "Tell el Mise"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3a800c.geojson",
+        "place": "Tell el Mughanniya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m008aaf.geojson",
+        "place": "Tell el Muhaffar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m297af3.geojson",
+        "place": "Tell el Muqayyar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma3078f.geojson",
+        "place": "Tell el Qos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfbfdc1.geojson",
+        "place": "Tell el Salihiye"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mda25cf.geojson",
+        "place": "Tell el Wawiyat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m552c9f.geojson",
+        "place": "Tell el Yahudiye"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfe37a0.geojson",
+        "place": "Tell en Nasbeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdcac4a.geojson",
+        "place": "Tell er Rahb"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb291ec.geojson",
+        "place": "Tell er Reheil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf8282c.geojson",
+        "place": "Tell er Reqqeit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6badf8.geojson",
+        "place": "Tell er Retaba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me0ae79.geojson",
+        "place": "Tell esh Shamsiya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m489f67.geojson",
+        "place": "Tell esh Sharia"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4f3527.geojson",
+        "place": "Tell esh Sheikh Dhiab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m28d167.geojson",
+        "place": "Tell es Safi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m77a636.geojson",
+        "place": "Tell es Saqati"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m99eed8.geojson",
+        "place": "Tell es Sa’idiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m95349d.geojson",
+        "place": "Tell es Sultan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc73188.geojson",
+        "place": "Tell Eton"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbae631.geojson",
+        "place": "Tell Feddan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6d408e.geojson",
+        "place": "Tell Hagmatana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc3a26f.geojson",
+        "place": "Tell Halaf"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m90b454.geojson",
+        "place": "Tell Ham"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb5cfe4.geojson",
+        "place": "Tell Harube"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdc7fbf.geojson",
+        "place": "Tell Haush"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf8bf50.geojson",
+        "place": "Tell Hejaj"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m12c75e.geojson",
+        "place": "Tell Hesban"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m66efd0.geojson",
+        "place": "Tell Hum"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0b7a33.geojson",
+        "place": "Tell Ibrahim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m29c6b3.geojson",
+        "place": "Tell Ishnayt"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m09cf7c.geojson",
+        "place": "Tell Jawah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3f6c55.geojson",
+        "place": "Tell Jemmeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m39f75d.geojson",
+        "place": "Tell Jenin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6b3f60.geojson",
+        "place": "Tell Jindaris"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m46be7f.geojson",
+        "place": "Tell Keisan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf863e1.geojson",
+        "place": "Tell Kilkis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3c027c.geojson",
+        "place": "Tell Maqne"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m942792.geojson",
+        "place": "Tell Maryam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4f87fb.geojson",
+        "place": "Tell Matabi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m40394a.geojson",
+        "place": "Tell Melat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc2b727.geojson",
+        "place": "Tell Meskene"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m919c2c.geojson",
+        "place": "Tell Miska"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdc7c58.geojson",
+        "place": "Tell Muhalhal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m310ad8.geojson",
+        "place": "Tell Muhammad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m32c21d.geojson",
+        "place": "Tell Nebi Mend"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m31f719.geojson",
+        "place": "Tell Qasile"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md89d54.geojson",
+        "place": "Tell Qa’adan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m30171a.geojson",
+        "place": "Tell Qedua"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m81b743.geojson",
+        "place": "Tell Qisyon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me84cc9.geojson",
+        "place": "Tell Rachidiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m97d53f.geojson",
+        "place": "Tell Ras el Ain"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md54909.geojson",
+        "place": "Tell Rekhesh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m388fd5.geojson",
+        "place": "Tell Rifat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9ccfee.geojson",
+        "place": "Tell Safut"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m15dbe7.geojson",
+        "place": "Tell Sheshubar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m51d3ee.geojson",
+        "place": "Tell Simadi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma3b16c.geojson",
+        "place": "Tell Soreg"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m058079.geojson",
+        "place": "Tell Tayinat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8e8c6d.geojson",
+        "place": "Tell Ta’anakh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me83b88.geojson",
+        "place": "Tell Thorah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m81f259.geojson",
+        "place": "Tell Tuwani"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m010604.geojson",
+        "place": "Tell Tuweiyil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m48c2f6.geojson",
+        "place": "Tell Umm Betin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m63c810.geojson",
+        "place": "Tell Umm Hamad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meda4c2.geojson",
+        "place": "Tell Ya’af"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma6f6dc.geojson",
+        "place": "Tel Lystra"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2baf82.geojson",
+        "place": "Tell Zif"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8bd1e6.geojson",
+        "place": "Tel Main"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma9cf6e.geojson",
+        "place": "Tel Malhata"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7bf4f1.geojson",
+        "place": "Tel Maresha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcd11f7.geojson",
+        "place": "Tel Masos"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf52435.geojson",
+        "place": "Tel Megiddo"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma2bedf.geojson",
+        "place": "Tel Miqne"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m79536a.geojson",
+        "place": "Tel Nagila"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m52f985.geojson",
+        "place": "Tel Nahal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb8e6c2.geojson",
+        "place": "Tel Na’ama"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m896c2c.geojson",
+        "place": "Tel Parur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m14fc12.geojson",
+        "place": "Tel Qashish"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc4b938.geojson",
+        "place": "Tel Qeshet"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfe591e.geojson",
+        "place": "Tel Raqqat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md7c132.geojson",
+        "place": "Tel Regev"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8ce13e.geojson",
+        "place": "Tel Rehov"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me2704a.geojson",
+        "place": "Tel Rosh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m86f941.geojson",
+        "place": "Tel Rumeida"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8b46cd.geojson",
+        "place": "Tel Salwim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4381c8.geojson",
+        "place": "Tel Shadud"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md543e2.geojson",
+        "place": "Tel Shalaf"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m860ae3.geojson",
+        "place": "Tel Shalem"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me0e0b1.geojson",
+        "place": "Tel Sharuhen"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m307896.geojson",
+        "place": "Tel Shem"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc70a1b.geojson",
+        "place": "Tel Sheqef"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m15d67c.geojson",
+        "place": "Tel Shimron"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md2430d.geojson",
+        "place": "Tel Socho"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3c1506.geojson",
+        "place": "Tel Tzora"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb00c2d.geojson",
+        "place": "Tel Yarmuth"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9d59ae.geojson",
+        "place": "Tel Yeshua"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md7dd73.geojson",
+        "place": "Tel Yin’am"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mda3bc1.geojson",
+        "place": "Tel Yizre’el"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5fdc60.geojson",
+        "place": "Tel Yokneam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0edba0.geojson",
+        "place": "Tel Zayit"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7b9c77.geojson",
+        "place": "Tel Zelafon"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcd7d18.geojson",
+        "place": "Tel Zeton"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf51729.geojson",
+        "place": "Thebes"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdadcc0.geojson",
+        "place": "Thessaloniki"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf0e9f8.geojson",
+        "place": "Thessaly"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m552789.geojson",
+        "place": "Thoghret ed Debr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8996a4.geojson",
+        "place": "Three Taverns"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc8c3f1.geojson",
+        "place": "Tiberias"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc49ef3.geojson",
+        "place": "Tigris River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6924bf.geojson",
+        "place": "Tila as Safa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0cf140.geojson",
+        "place": "Til Assuri"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2d73de.geojson",
+        "place": "Til Barsip"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfddf17.geojson",
+        "place": "Tille Höyük"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf29181.geojson",
+        "place": "Tora River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m315baa.geojson",
+        "place": "Transjordan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1e3a5b.geojson",
+        "place": "Tripoli"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4ff96d.geojson",
+        "place": "Tubas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mda5d88.geojson",
+        "place": "Tulul Dura"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf75afb.geojson",
+        "place": "Tulul el Medbah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me12462.geojson",
+        "place": "Tur Abdin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdcad79.geojson",
+        "place": "Turmus Ayya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m52a288.geojson",
+        "place": "Tuwaneh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m11c602.geojson",
+        "place": "Tyre"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md84c87.geojson",
+        "place": "Udruh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md8bbce.geojson",
+        "place": "Ulai canal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4e0815.geojson",
+        "place": "Umm al Amad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7d00ce.geojson",
+        "place": "Umm ar Rasas"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfaa53d.geojson",
+        "place": "Umm ed Debar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7e1954.geojson",
+        "place": "Umm el Amad"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8b5f56.geojson",
+        "place": "Umm el Awamid"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m11f1d4.geojson",
+        "place": "Umm el Azam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m602d3b.geojson",
+        "place": "Umm el Bayyara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m51ee32.geojson",
+        "place": "Umm el Ghozlan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m99a8a8.geojson",
+        "place": "Umm el Hanafish"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m394045.geojson",
+        "place": "Umm el Umdan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md6873f.geojson",
+        "place": "Umm el Walid"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m18bec1.geojson",
+        "place": "Umm Qais"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcf7f60.geojson",
+        "place": "Umm Sweiwineh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma16f57.geojson",
+        "place": "Upper Egypt"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfa9786.geojson",
+        "place": "upper Huleh Valley"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m08a591.geojson",
+        "place": "Urartu"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m240af5.geojson",
+        "place": "Urfa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me2d27e.geojson",
+        "place": "Uruk"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfcf75f.geojson",
+        "place": "Uyun Musa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma86896.geojson",
+        "place": "Valley of Elah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc620e5.geojson",
+        "place": "Valley of Jehoshaphat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma24f3f.geojson",
+        "place": "Valley of Rephaim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma5019d.geojson",
+        "place": "Veria"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md20614.geojson",
+        "place": "Wadi Abbelin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf71f00.geojson",
+        "place": "Wadi Abu ed Diba"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc8cf64.geojson",
+        "place": "Wadi Abu Retemat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m13e189.geojson",
+        "place": "Wadi abu Taqiya"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m27dba0.geojson",
+        "place": "Wadi Ajlun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7869a6.geojson",
+        "place": "Wadi al Aghaydira"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcbd477.geojson",
+        "place": "Wadi al Arish"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5c5bc6.geojson",
+        "place": "Wadi al Fara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mef067e.geojson",
+        "place": "Wadi al Hasa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma66725.geojson",
+        "place": "Wadi al Joz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb8f222.geojson",
+        "place": "Wadi al Juththa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4dbf93.geojson",
+        "place": "Wadi al Rummah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m426f79.geojson",
+        "place": "Wadi al Wala"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m266be5.geojson",
+        "place": "Wadi al Yabis"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9c1486.geojson",
+        "place": "Wadi Ara"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma7c659.geojson",
+        "place": "Wadi Arabah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mcbb4ce.geojson",
+        "place": "Wadi ar Rashrash"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me00c08.geojson",
+        "place": "Wadi ar Raynah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma7c343.geojson",
+        "place": "Wadi as Sakriyat"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m81b8c3.geojson",
+        "place": "Wadi Baysh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m566c41.geojson",
+        "place": "Wadi Bedan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m0978af.geojson",
+        "place": "Wadi Bishah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m558be2.geojson",
+        "place": "Wadi ed Debr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m14e1a5.geojson",
+        "place": "Wadi el Arrub"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m98a6fe.geojson",
+        "place": "Wadi el Beidha"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6dddbb.geojson",
+        "place": "Wadi el Esh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf4a85f.geojson",
+        "place": "Wadi el Feranj"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdb9dc3.geojson",
+        "place": "Wadi el Ghafar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m497b7a.geojson",
+        "place": "Wadi el Kaziz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf10467.geojson",
+        "place": "Wadi el Melek"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m76d958.geojson",
+        "place": "Wadi el Milh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4124c8.geojson",
+        "place": "Wadi el Qeini"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m229fd6.geojson",
+        "place": "Wadi el Sheikh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m87e5dd.geojson",
+        "place": "Wadi en Nar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m182c86.geojson",
+        "place": "Wadi en Numeirah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m977e59.geojson",
+        "place": "Wadi er Retame"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc92826.geojson",
+        "place": "Wadi er Rummun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1cd2d9.geojson",
+        "place": "Wadi Erthama"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m97dd72.geojson",
+        "place": "Wadi esh Shellal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m76cfaf.geojson",
+        "place": "Wadi es Salmaneh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4e728c.geojson",
+        "place": "Wadi eth Themed"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m16aeb0.geojson",
+        "place": "Wadi Fai"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m26cac6.geojson",
+        "place": "Wadi Feiran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md37ab1.geojson",
+        "place": "Wadi Gharandal"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md91e52.geojson",
+        "place": "Wadi Ghuwayr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me1eff3.geojson",
+        "place": "Wadi Hasasah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4aa3c1.geojson",
+        "place": "Wadi Khadakhid"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfa2f28.geojson",
+        "place": "Wadi Kofrein"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m00c3f3.geojson",
+        "place": "Wadi Lussan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m2efa94.geojson",
+        "place": "Wadi Makkuk"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m322666.geojson",
+        "place": "Wadi Malaqi"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9c0974.geojson",
+        "place": "Wadi Meiron"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc95e22.geojson",
+        "place": "Wadi Mujib"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma5be19.geojson",
+        "place": "Wadi Muweileh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1d55ca.geojson",
+        "place": "Wadi Nimrin"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m80d92c.geojson",
+        "place": "Wadi Nu’eima"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m96bbc3.geojson",
+        "place": "Wadi Qana"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc4242d.geojson",
+        "place": "Wadi Qelt"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m92cd57.geojson",
+        "place": "Wadi Rajib"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma064a5.geojson",
+        "place": "Wadi Ratamah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m4aa2b6.geojson",
+        "place": "Wadi Rihab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md06df2.geojson",
+        "place": "Wadi Rufaiyil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma88b1e.geojson",
+        "place": "Wadi Rummananeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m54d17d.geojson",
+        "place": "Wadi Safiyeh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m1aff9e.geojson",
+        "place": "Wadi Saleim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m790bc8.geojson",
+        "place": "Wadi Sa’l"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m191379.geojson",
+        "place": "Wadi Shaqq ad Dab"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7dace6.geojson",
+        "place": "Wadi Sirhan"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mc7c3c3.geojson",
+        "place": "Wadi Sudr"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m24eba2.geojson",
+        "place": "Wadi Umm Hashim"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9ad5c9.geojson",
+        "place": "Wadi Umm Rajil"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mafdc8d.geojson",
+        "place": "Wadi Umran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mae4ba9.geojson",
+        "place": "Wadi Za’arah"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m656d70.geojson",
+        "place": "Wadi Zerqa Main"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m6851a6.geojson",
+        "place": "Well of Harod"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m30646c.geojson",
+        "place": "western cliff of Wadi Makkuk"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9c6cd5.geojson",
+        "place": "White Nile"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma69156.geojson",
+        "place": "Yabrud"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mdfc63b.geojson",
+        "place": "Yafa"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md6cdbf.geojson",
+        "place": "Yajuz"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m574ccc.geojson",
+        "place": "Yalo"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfde99e.geojson",
+        "place": "Yamun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "ma5abe3.geojson",
+        "place": "Yanouh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me0e6bf.geojson",
+        "place": "Yanuh"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m7672b5.geojson",
+        "place": "Yanun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3ee2bc.geojson",
+        "place": "Yaquq"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf4bdf8.geojson",
+        "place": "Yarkon River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf00bed.geojson",
+        "place": "Yarun"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m161c59.geojson",
+        "place": "Yatta"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md62f3e.geojson",
+        "place": "Yavne Yam"
+      }
+    },
+    {
+      "0": {
+        "geojson": "me16f87.geojson",
+        "place": "Yazur"
+      }
+    },
+    {
+      "0": {
+        "geojson": "md31523.geojson",
+        "place": "Yehud"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mfbdf61.geojson",
+        "place": "Yibna"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m9f98b7.geojson",
+        "place": "Zafar"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb277f4.geojson",
+        "place": "Zaharet"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mbba0a8.geojson",
+        "place": "Zahr al Qais"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mf42fe6.geojson",
+        "place": "Zahrat al Kula"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m8920d8.geojson",
+        "place": "Zarqa River"
+      }
+    },
+    {
+      "0": {
+        "geojson": "meb16ed.geojson",
+        "place": "Za’ura"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m5f50c8.geojson",
+        "place": "Zeila"
+      }
+    },
+    {
+      "0": {
+        "geojson": "mb3d1e9.geojson",
+        "place": "Zifran"
+      }
+    },
+    {
+      "0": {
+        "geojson": "m3ba5c8.geojson",
+        "place": "Zin Desert"
+      }
+    }
+  ]

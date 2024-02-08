@@ -1,0 +1,54 @@
+{
+  "Abdon": {
+    "geometry": {
+      "coordinates": [
+        31.3898,
+        31.3898
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "id": "Abdon"
+    },
+    "type": "Feature"
+  },
+  "Abel-beth-maacah": {
+    "geometry": {
+      "coordinates": [
+        31.3898,
+        31.3898
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "id": "Abel-beth-maacah"
+    },
+    "type": "Feature"
+  },
+  "Abel-keramim": {
+    "geometry": {
+      "coordinates": [
+        31.3898,
+        31.3898
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "id": "Abel-keramim"
+    },
+    "type": "Feature"
+  },
+  "Abel-meholah": {
+    "geometry": {
+      "coordinates": [
+        31.3898,
+        31.3898
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "id": "Abel-meholah"
+    },
+    "type": "Feature"
+  }
+}
