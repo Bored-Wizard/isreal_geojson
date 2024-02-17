@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.512799999999999",
+      "35.813600000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Ham?"
+    "id": "Ham"
   },
   "type": "Feature"
 }

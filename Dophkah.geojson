@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "29.036899999999999",
+      "33.459200000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Dophkah?"
+    "id": "Dophkah"
   },
   "type": "Feature"
 }

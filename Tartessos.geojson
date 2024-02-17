@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "36.957300000000004",
+      "-6.3849000000000018"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Tartessos?"
+    "id": "Tartessos"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "29.463000000000001",
+      "34.859999999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Ezion-geber?"
+    "id": "Ezion-geber"
   },
   "type": "Feature"
 }

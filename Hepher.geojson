@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.442999999999998",
+      "35.216999999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Hepher?"
+    "id": "Hepher"
   },
   "type": "Feature"
 }

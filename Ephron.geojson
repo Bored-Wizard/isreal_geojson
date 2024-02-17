@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.542500000000004",
+      "35.718200000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Ephron?"
+    "id": "Ephron"
   },
   "type": "Feature"
 }

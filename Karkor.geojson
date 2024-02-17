@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.363199999999999",
+      "37.5426"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Karkor?"
+    "id": "Karkor"
   },
   "type": "Feature"
 }

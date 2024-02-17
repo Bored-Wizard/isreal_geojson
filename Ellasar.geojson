@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.285399999999999",
+      "45.853899999999996"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Ellasar?"
+    "id": "Ellasar"
   },
   "type": "Feature"
 }

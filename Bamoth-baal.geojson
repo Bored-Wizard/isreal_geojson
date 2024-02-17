@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.732500000000002",
+      "35.740600000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Bamoth-baal?"
+    "id": "Bamoth-baal"
   },
   "type": "Feature"
 }

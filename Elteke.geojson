@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.907",
+      "34.777000000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Elteke?"
+    "id": "Elteke"
   },
   "type": "Feature"
 }

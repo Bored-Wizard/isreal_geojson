@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.616",
+      "35.131999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Geba?"
+    "id": "Geba"
   },
   "type": "Feature"
 }

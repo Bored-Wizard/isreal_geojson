@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.917200000000001",
+      "35.261099999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Ai?"
+    "id": "Ai"
   },
   "type": "Feature"
 }

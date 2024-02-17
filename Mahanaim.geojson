@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.185699999999997",
+      "35.691499999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Mahanaim?"
+    "id": "Mahanaim"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.834000000000003",
+      "35.275999999999996"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Jotbah?"
+    "id": "Jotbah"
   },
   "type": "Feature"
 }

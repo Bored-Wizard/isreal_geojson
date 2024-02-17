@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.285",
+      "34.646999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Ashan?"
+    "id": "Ashan"
   },
   "type": "Feature"
 }

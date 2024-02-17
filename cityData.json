@@ -48,8 +48,8 @@
     "geojson": "Acruvium"
   },
   {
-    "place": "Acshaph?",
-    "geojson": "Acshaph?"
+    "place": "Acshaph",
+    "geojson": "Acshaph"
   },
   {
     "place": "Actium",
@@ -80,8 +80,8 @@
     "geojson": "Adasa"
   },
   {
-    "place": "Admah?",
-    "geojson": "Admah?"
+    "place": "Admah",
+    "geojson": "Admah"
   },
   {
     "place": "Adora",
@@ -104,20 +104,20 @@
     "geojson": "Aeclanum"
   },
   {
-    "place": "Aenon?",
-    "geojson": "Aenon?"
+    "place": "Aenon",
+    "geojson": "Aenon"
   },
   {
     "place": "Aenona",
     "geojson": "Aenona"
   },
   {
-    "place": "Ai?",
-    "geojson": "Ai?"
+    "place": "Ai",
+    "geojson": "Ai"
   },
   {
-    "place": "Ai? (Jer 49)",
-    "geojson": "Ai? (Jer 49)"
+    "place": "Ai (Jer 49)",
+    "geojson": "Ai (Jer 49)"
   },
   {
     "place": "Aijalon",
@@ -248,12 +248,8 @@
     "geojson": "Aphek"
   },
   {
-    "place": "Aphek?",
-    "geojson": "Aphek?"
-  },
-  {
-    "place": "Aphek? (1 Kgs 20; 2 Kgs 13)",
-    "geojson": "Aphek? (1 Kgs 20; 2 Kgs 13)"
+    "place": "Aphek (1 Kgs 20; 2 Kgs 13)",
+    "geojson": "Aphek (1 Kgs 20; 2 Kgs 13)"
   },
   {
     "place": "Aphrodisias",
@@ -280,8 +276,8 @@
     "geojson": "Aquilonia"
   },
   {
-    "place": "Ar?",
-    "geojson": "Ar?"
+    "place": "Ar",
+    "geojson": "Ar"
   },
   {
     "place": "Arad",
@@ -320,8 +316,8 @@
     "geojson": "Aroer (Josh 13:25)"
   },
   {
-    "place": "Aroer? (1Sm 30)",
-    "geojson": "Aroer? (1Sm 30)"
+    "place": "Aroer (1Sm 30)",
+    "geojson": "Aroer (1Sm 30)"
   },
   {
     "place": "Arpad",
@@ -352,8 +348,8 @@
     "geojson": "Artaxata"
   },
   {
-    "place": "Arubboth?",
-    "geojson": "Arubboth?"
+    "place": "Arubboth",
+    "geojson": "Arubboth"
   },
   {
     "place": "Arumah",
@@ -368,8 +364,8 @@
     "geojson": "Arvad"
   },
   {
-    "place": "Arzawa?",
-    "geojson": "Arzawa?"
+    "place": "Arzawa",
+    "geojson": "Arzawa"
   },
   {
     "place": "Ascalon",
@@ -380,8 +376,8 @@
     "geojson": "Asculum"
   },
   {
-    "place": "Ashan?",
-    "geojson": "Ashan?"
+    "place": "Ashan",
+    "geojson": "Ashan"
   },
   {
     "place": "Ashdod",
@@ -416,12 +412,12 @@
     "geojson": "Assos"
   },
   {
-    "place": "Ataroth?",
-    "geojson": "Ataroth?"
+    "place": "Ataroth",
+    "geojson": "Ataroth"
   },
   {
-    "place": "Ataroth-addar?",
-    "geojson": "Ataroth-addar?"
+    "place": "Ataroth-addar",
+    "geojson": "Ataroth-addar"
   },
   {
     "place": "Aternum",
@@ -456,12 +452,12 @@
     "geojson": "Azekah"
   },
   {
-    "place": "Azmon?",
-    "geojson": "Azmon?"
+    "place": "Azmon",
+    "geojson": "Azmon"
   },
   {
-    "place": "Aznoth-tabor?",
-    "geojson": "Aznoth-tabor?"
+    "place": "Aznoth-tabor",
+    "geojson": "Aznoth-tabor"
   },
   {
     "place": "Azotus",
@@ -472,8 +468,8 @@
     "geojson": "Baalath"
   },
   {
-    "place": "Baalath-beer?",
-    "geojson": "Baalath-beer?"
+    "place": "Baalath-beer",
+    "geojson": "Baalath-beer"
   },
   {
     "place": "Baal-hazor",
@@ -496,8 +492,8 @@
     "geojson": "Baeterris"
   },
   {
-    "place": "Bamoth-baal?",
-    "geojson": "Bamoth-baal?"
+    "place": "Bamoth-baal",
+    "geojson": "Bamoth-baal"
   },
   {
     "place": "Barcino",
@@ -516,12 +512,12 @@
     "geojson": "Bedriacum"
   },
   {
-    "place": "Beer-lahai-roi?",
-    "geojson": "Beer-lahai-roi?"
+    "place": "Beer-lahai-roi",
+    "geojson": "Beer-lahai-roi"
   },
   {
-    "place": "Beeroth?",
-    "geojson": "Beeroth?"
+    "place": "Beeroth",
+    "geojson": "Beeroth"
   },
   {
     "place": "Beersheba",
@@ -540,16 +536,12 @@
     "geojson": "Beneventum"
   },
   {
-    "place": "Berea?",
-    "geojson": "Berea?"
-  },
-  {
     "place": "Berea",
     "geojson": "Berea"
   },
   {
-    "place": "Bered?",
-    "geojson": "Bered?"
+    "place": "Bered",
+    "geojson": "Bered"
   },
   {
     "place": "Berenice",
@@ -564,32 +556,32 @@
     "geojson": "Beroth"
   },
   {
-    "place": "Berothai?",
-    "geojson": "Berothai?"
+    "place": "Berothai",
+    "geojson": "Berothai"
   },
   {
     "place": "Berytus",
     "geojson": "Berytus"
   },
   {
-    "place": "Beth-anath?",
-    "geojson": "Beth-anath?"
+    "place": "Beth-anath",
+    "geojson": "Beth-anath"
   },
   {
     "place": "Beth-anoth",
     "geojson": "Beth-anoth"
   },
   {
-    "place": "Beth-arabah?",
-    "geojson": "Beth-arabah?"
+    "place": "Beth-arabah",
+    "geojson": "Beth-arabah"
   },
   {
     "place": "Beth-arbel",
     "geojson": "Beth-arbel"
   },
   {
-    "place": "Beth-aven?",
-    "geojson": "Beth-aven?"
+    "place": "Beth-aven",
+    "geojson": "Beth-aven"
   },
   {
     "place": "Beth-azmaveth",
@@ -604,8 +596,8 @@
     "geojson": "Beth-baal-peor"
   },
   {
-    "place": "Beth-dagan?",
-    "geojson": "Beth-dagan?"
+    "place": "Beth-dagan",
+    "geojson": "Beth-dagan"
   },
   {
     "place": "Beth-diblathaim",
@@ -680,8 +672,8 @@
     "geojson": "Bethany"
   },
   {
-    "place": "Bethany? (beyond the Jordan)",
-    "geojson": "Bethany? (beyond the Jordan)"
+    "place": "Bethany (beyond the Jordan)",
+    "geojson": "Bethany (beyond the Jordan)"
   },
   {
     "place": "Bethbasi",
@@ -700,8 +692,8 @@
     "geojson": "Bethlehem (Josh 19; Jdg 12)"
   },
   {
-    "place": "Bethphage?",
-    "geojson": "Bethphage?"
+    "place": "Bethphage",
+    "geojson": "Bethphage"
   },
   {
     "place": "Bethsaida",
@@ -716,16 +708,16 @@
     "geojson": "Bethther"
   },
   {
-    "place": "Betonim?",
-    "geojson": "Betonim?"
+    "place": "Betonim",
+    "geojson": "Betonim"
   },
   {
     "place": "Bezek",
     "geojson": "Bezek"
   },
   {
-    "place": "Bezer?",
-    "geojson": "Bezer?"
+    "place": "Bezer",
+    "geojson": "Bezer"
   },
   {
     "place": "Blera",
@@ -754,10 +746,6 @@
   {
     "place": "Bozrah",
     "geojson": "Bozrah"
-  },
-  {
-    "place": "_excavated site (no ancient identification)",
-    "geojson": "_excavated site (no ancient identification)"
   },
   {
     "place": "Brixia",
@@ -824,8 +812,8 @@
     "geojson": "Callirhoe"
   },
   {
-    "place": "Calno?",
-    "geojson": "Calno?"
+    "place": "Calno",
+    "geojson": "Calno"
   },
   {
     "place": "Camus",
@@ -924,8 +912,8 @@
     "geojson": "Cirta"
   },
   {
-    "place": "City of Salt?",
-    "geojson": "City of Salt?"
+    "place": "City of Salt",
+    "geojson": "City of Salt"
   },
   {
     "place": "Clastidium",
@@ -1020,12 +1008,8 @@
     "geojson": "Dascyleion"
   },
   {
-    "place": "Debir?",
-    "geojson": "Debir?"
-  },
-  {
-    "place": "Debir? (Josh 15:7; 18:17)",
-    "geojson": "Debir? (Josh 15:7; 18:17)"
+    "place": "Debir",
+    "geojson": "Debir"
   },
   {
     "place": "Dedan",
@@ -1056,10 +1040,6 @@
     "geojson": "Didyma"
   },
   {
-    "place": "Dion?",
-    "geojson": "Dion?"
-  },
-  {
     "place": "Dion",
     "geojson": "Dion"
   },
@@ -1080,8 +1060,8 @@
     "geojson": "Dok"
   },
   {
-    "place": "Dophkah?",
-    "geojson": "Dophkah?"
+    "place": "Dophkah",
+    "geojson": "Dophkah"
   },
   {
     "place": "Dor",
@@ -1112,8 +1092,8 @@
     "geojson": "Dur-Sharrukin"
   },
   {
-    "place": "Dura?",
-    "geojson": "Dura?"
+    "place": "Dura",
+    "geojson": "Dura"
   },
   {
     "place": "Dura-Europos",
@@ -1124,8 +1104,8 @@
     "geojson": "Dyrrhachium"
   },
   {
-    "place": "Ebenezer?",
-    "geojson": "Ebenezer?"
+    "place": "Ebenezer",
+    "geojson": "Ebenezer"
   },
   {
     "place": "Ebla",
@@ -1152,20 +1132,20 @@
     "geojson": "Edrei"
   },
   {
-    "place": "Eglon?",
-    "geojson": "Eglon?"
+    "place": "Eglon",
+    "geojson": "Eglon"
   },
   {
     "place": "Ekron",
     "geojson": "Ekron"
   },
   {
-    "place": "El-paran?",
-    "geojson": "El-paran?"
+    "place": "El-paran",
+    "geojson": "El-paran"
   },
   {
-    "place": "Elasa?",
-    "geojson": "Elasa?"
+    "place": "Elasa",
+    "geojson": "Elasa"
   },
   {
     "place": "Elath",
@@ -1180,16 +1160,16 @@
     "geojson": "Elephantine"
   },
   {
-    "place": "Elim?",
-    "geojson": "Elim?"
+    "place": "Elim",
+    "geojson": "Elim"
   },
   {
-    "place": "Ellasar?",
-    "geojson": "Ellasar?"
+    "place": "Ellasar",
+    "geojson": "Ellasar"
   },
   {
-    "place": "Elteke?",
-    "geojson": "Elteke?"
+    "place": "Elteke",
+    "geojson": "Elteke"
   },
   {
     "place": "Elusa",
@@ -1212,16 +1192,12 @@
     "geojson": "Emesa"
   },
   {
-    "place": "Emmaus?",
-    "geojson": "Emmaus?"
-  },
-  {
     "place": "Emmaus",
     "geojson": "Emmaus"
   },
   {
-    "place": "En-eglaim?",
-    "geojson": "En-eglaim?"
+    "place": "En-eglaim",
+    "geojson": "En-eglaim"
   },
   {
     "place": "En-gannim",
@@ -1232,8 +1208,8 @@
     "geojson": "En-gedi"
   },
   {
-    "place": "En-rimmon?",
-    "geojson": "En-rimmon?"
+    "place": "En-rimmon",
+    "geojson": "En-rimmon"
   },
   {
     "place": "En-rogel",
@@ -1260,8 +1236,8 @@
     "geojson": "Ephraim"
   },
   {
-    "place": "Ephron?",
-    "geojson": "Ephron?"
+    "place": "Ephron",
+    "geojson": "Ephron"
   },
   {
     "place": "Epidamnos",
@@ -1304,8 +1280,8 @@
     "geojson": "Etam"
   },
   {
-    "place": "Ether?",
-    "geojson": "Ether?"
+    "place": "Ether",
+    "geojson": "Ether"
   },
   {
     "place": "Europus",
@@ -1316,8 +1292,8 @@
     "geojson": "Eusebia"
   },
   {
-    "place": "Ezion-geber?",
-    "geojson": "Ezion-geber?"
+    "place": "Ezion-geber",
+    "geojson": "Ezion-geber"
   },
   {
     "place": "Fair Havens",
@@ -1384,8 +1360,8 @@
     "geojson": "Gath-hepher"
   },
   {
-    "place": "Gath-rimmon?",
-    "geojson": "Gath-rimmon?"
+    "place": "Gath-rimmon",
+    "geojson": "Gath-rimmon"
   },
   {
     "place": "Gaugamela",
@@ -1398,10 +1374,6 @@
   {
     "place": "Geba",
     "geojson": "Geba"
-  },
-  {
-    "place": "Geba?",
-    "geojson": "Geba?"
   },
   {
     "place": "Gebal",
@@ -1432,20 +1404,20 @@
     "geojson": "Genua"
   },
   {
-    "place": "Gerar?",
-    "geojson": "Gerar?"
+    "place": "Gerar",
+    "geojson": "Gerar"
   },
   {
     "place": "Gerasa",
     "geojson": "Gerasa"
   },
   {
-    "place": "Gergesa?",
-    "geojson": "Gergesa?"
+    "place": "Gergesa",
+    "geojson": "Gergesa"
   },
   {
-    "place": "Gerrha?",
-    "geojson": "Gerrha?"
+    "place": "Gerrha",
+    "geojson": "Gerrha"
   },
   {
     "place": "Gerunda",
@@ -1464,32 +1436,28 @@
     "geojson": "Gibeah"
   },
   {
-    "place": "High Place of Gibeah?",
-    "geojson": "High Place of Gibeah?"
+    "place": "High Place of Gibeah",
+    "geojson": "High Place of Gibeah"
   },
   {
     "place": "Gibeon",
     "geojson": "Gibeon"
   },
   {
-    "place": "Gilead? (Hos 6:8)",
-    "geojson": "Gilead? (Hos 6:8)"
+    "place": "Gilead (Hos 6:8)",
+    "geojson": "Gilead (Hos 6:8)"
   },
   {
-    "place": "Gilgal? (Josh 15:7; 18:17)",
-    "geojson": "Gilgal? (Josh 15:7; 18:17)"
+    "place": "Gilgal",
+    "geojson": "Gilgal"
   },
   {
-    "place": "Gilgal?",
-    "geojson": "Gilgal?"
+    "place": "Gilgal (2Kg 2-4; Ne 12:29)",
+    "geojson": "Gilgal (2Kg 2-4; Ne 12:29)"
   },
   {
-    "place": "Gilgal? (2Kg 2-4; Ne 12:29)",
-    "geojson": "Gilgal? (2Kg 2-4; Ne 12:29)"
-  },
-  {
-    "place": "Gilgal? (Dt 11)",
-    "geojson": "Gilgal? (Dt 11)"
+    "place": "Gilgal (Dt 11)",
+    "geojson": "Gilgal (Dt 11)"
   },
   {
     "place": "Gimzo",
@@ -1508,8 +1476,8 @@
     "geojson": "Gischala"
   },
   {
-    "place": "Gittaim?",
-    "geojson": "Gittaim?"
+    "place": "Gittaim",
+    "geojson": "Gittaim"
   },
   {
     "place": "Glanum",
@@ -1520,8 +1488,8 @@
     "geojson": "Golan"
   },
   {
-    "place": "Gomorrah?",
-    "geojson": "Gomorrah?"
+    "place": "Gomorrah",
+    "geojson": "Gomorrah"
   },
   {
     "place": "Gophna",
@@ -1560,24 +1528,24 @@
     "geojson": "Halicarnassus"
   },
   {
-    "place": "Ham?",
-    "geojson": "Ham?"
+    "place": "Ham",
+    "geojson": "Ham"
   },
   {
     "place": "Hamath",
     "geojson": "Hamath"
   },
   {
-    "place": "Hamath-zobah?",
-    "geojson": "Hamath-zobah?"
+    "place": "Hamath-zobah",
+    "geojson": "Hamath-zobah"
   },
   {
     "place": "Hammath",
     "geojson": "Hammath"
   },
   {
-    "place": "Hammon?",
-    "geojson": "Hammon?"
+    "place": "Hammon",
+    "geojson": "Hammon"
   },
   {
     "place": "Hannathon",
@@ -1596,12 +1564,12 @@
     "geojson": "Hattusha"
   },
   {
-    "place": "Hazar-enan?",
-    "geojson": "Hazar-enan?"
+    "place": "Hazar-enan",
+    "geojson": "Hazar-enan"
   },
   {
-    "place": "Hazeroth?",
-    "geojson": "Hazeroth?"
+    "place": "Hazeroth",
+    "geojson": "Hazeroth"
   },
   {
     "place": "Hazor",
@@ -1620,16 +1588,16 @@
     "geojson": "Hecatompylos"
   },
   {
-    "place": "Helam?",
-    "geojson": "Helam?"
+    "place": "Helam",
+    "geojson": "Helam"
   },
   {
     "place": "Helbon",
     "geojson": "Helbon"
   },
   {
-    "place": "Heleph?",
-    "geojson": "Heleph?"
+    "place": "Heleph",
+    "geojson": "Heleph"
   },
   {
     "place": "Heliopolis",
@@ -1644,8 +1612,8 @@
     "geojson": "Henen-nesut"
   },
   {
-    "place": "Hepher?",
-    "geojson": "Hepher?"
+    "place": "Hepher",
+    "geojson": "Hepher"
   },
   {
     "place": "Heraclea Lyncestis",
@@ -1688,12 +1656,12 @@
     "geojson": "Hierapytna"
   },
   {
-    "place": "Hill of Ammah?",
-    "geojson": "Hill of Ammah?"
+    "place": "Hill of Ammah",
+    "geojson": "Hill of Ammah"
   },
   {
-    "place": "Hill of Hachilah?",
-    "geojson": "Hill of Hachilah?"
+    "place": "Hill of Hachilah",
+    "geojson": "Hill of Hachilah"
   },
   {
     "place": "Himera",
@@ -1708,20 +1676,20 @@
     "geojson": "Hippos"
   },
   {
-    "place": "Hormah?",
-    "geojson": "Hormah?"
+    "place": "Hormah",
+    "geojson": "Hormah"
   },
   {
-    "place": "Horonaim?",
-    "geojson": "Horonaim?"
+    "place": "Horonaim",
+    "geojson": "Horonaim"
   },
   {
-    "place": "Hosah?",
-    "geojson": "Hosah?"
+    "place": "Hosah",
+    "geojson": "Hosah"
   },
   {
-    "place": "Hushah?",
-    "geojson": "Hushah?"
+    "place": "Hushah",
+    "geojson": "Hushah"
   },
   {
     "place": "Hyrcania",
@@ -1776,8 +1744,8 @@
     "geojson": "Issus"
   },
   {
-    "place": "Iye-abarim?",
-    "geojson": "Iye-abarim?"
+    "place": "Iye-abarim",
+    "geojson": "Iye-abarim"
   },
   {
     "place": "Jabesh-gilead",
@@ -1808,8 +1776,8 @@
     "geojson": "Janoah"
   },
   {
-    "place": "Japhia?",
-    "geojson": "Japhia?"
+    "place": "Japhia",
+    "geojson": "Japhia"
   },
   {
     "place": "Jarmuth",
@@ -1820,8 +1788,8 @@
     "geojson": "Jattir"
   },
   {
-    "place": "Jazer?",
-    "geojson": "Jazer?"
+    "place": "Jazer",
+    "geojson": "Jazer"
   },
   {
     "place": "Jebus",
@@ -1872,12 +1840,12 @@
     "geojson": "Jotapata"
   },
   {
-    "place": "Jotbah?",
-    "geojson": "Jotbah?"
+    "place": "Jotbah",
+    "geojson": "Jotbah"
   },
   {
-    "place": "Jotbathah?",
-    "geojson": "Jotbathah?"
+    "place": "Jotbathah",
+    "geojson": "Jotbathah"
   },
   {
     "place": "Juttah",
@@ -1904,8 +1872,8 @@
     "geojson": "Kalavasos"
   },
   {
-    "place": "Kamon?",
-    "geojson": "Kamon?"
+    "place": "Kamon",
+    "geojson": "Kamon"
   },
   {
     "place": "Kanah",
@@ -1924,8 +1892,8 @@
     "geojson": "Karnaim"
   },
   {
-    "place": "Karkor?",
-    "geojson": "Karkor?"
+    "place": "Karkor",
+    "geojson": "Karkor"
   },
   {
     "place": "Kedemoth",
@@ -1936,8 +1904,8 @@
     "geojson": "Kedesh"
   },
   {
-    "place": "Kedesh-naphtali?",
-    "geojson": "Kedesh-naphtali?"
+    "place": "Kedesh-naphtali",
+    "geojson": "Kedesh-naphtali"
   },
   {
     "place": "Keilah",
@@ -2008,8 +1976,8 @@
     "geojson": "Kishion"
   },
   {
-    "place": "Kisloth-tabor?",
-    "geojson": "Kisloth-tabor?"
+    "place": "Kisloth-tabor",
+    "geojson": "Kisloth-tabor"
   },
   {
     "place": "Kition",
@@ -2104,8 +2072,8 @@
     "geojson": "Legio"
   },
   {
-    "place": "Lehi?",
-    "geojson": "Lehi?"
+    "place": "Lehi",
+    "geojson": "Lehi"
   },
   {
     "place": "Leontopolis",
@@ -2116,8 +2084,8 @@
     "geojson": "Leptis Magna"
   },
   {
-    "place": "Libnah?",
-    "geojson": "Libnah?"
+    "place": "Libnah",
+    "geojson": "Libnah"
   },
   {
     "place": "Lipara",
@@ -2128,8 +2096,8 @@
     "geojson": "Lissus"
   },
   {
-    "place": "Lo-debar?",
-    "geojson": "Lo-debar?"
+    "place": "Lo-debar",
+    "geojson": "Lo-debar"
   },
   {
     "place": "Locris",
@@ -2192,8 +2160,8 @@
     "geojson": "Madmen"
   },
   {
-    "place": "Madon?",
-    "geojson": "Madon?"
+    "place": "Madon",
+    "geojson": "Madon"
   },
   {
     "place": "Magdala",
@@ -2212,8 +2180,8 @@
     "geojson": "Mahalab"
   },
   {
-    "place": "Mahanaim?",
-    "geojson": "Mahanaim?"
+    "place": "Mahanaim",
+    "geojson": "Mahanaim"
   },
   {
     "place": "Makkedah",
@@ -2244,8 +2212,8 @@
     "geojson": "Maon"
   },
   {
-    "place": "Marah?",
-    "geojson": "Marah?"
+    "place": "Marah",
+    "geojson": "Marah"
   },
   {
     "place": "Marakanda",
@@ -2284,8 +2252,8 @@
     "geojson": "Mazaka"
   },
   {
-    "place": "Me-yarkon?",
-    "geojson": "Me-yarkon?"
+    "place": "Me-yarkon",
+    "geojson": "Me-yarkon"
   },
   {
     "place": "Medeba",
@@ -2332,16 +2300,16 @@
     "geojson": "Mephaath"
   },
   {
-    "place": "Mereah?",
-    "geojson": "Mereah?"
+    "place": "Mereah",
+    "geojson": "Mereah"
   },
   {
     "place": "Mero�",
     "geojson": "Mero�"
   },
   {
-    "place": "Merom?",
-    "geojson": "Merom?"
+    "place": "Merom",
+    "geojson": "Merom"
   },
   {
     "place": "Mesembria",
@@ -2368,20 +2336,20 @@
     "geojson": "Micmethath"
   },
   {
-    "place": "Migdal-el?",
-    "geojson": "Migdal-el?"
+    "place": "Migdal-el",
+    "geojson": "Migdal-el"
   },
   {
-    "place": "Migdal-gad?",
-    "geojson": "Migdal-gad?"
+    "place": "Migdal-gad",
+    "geojson": "Migdal-gad"
   },
   {
     "place": "Migdol",
     "geojson": "Migdol"
   },
   {
-    "place": "Migron?",
-    "geojson": "Migron?"
+    "place": "Migron",
+    "geojson": "Migron"
   },
   {
     "place": "Miletus",
@@ -2392,12 +2360,12 @@
     "geojson": "Minnith"
   },
   {
-    "place": "Mishal?",
-    "geojson": "Mishal?"
+    "place": "Mishal",
+    "geojson": "Mishal"
   },
   {
-    "place": "Misrephoth-maim?",
-    "geojson": "Misrephoth-maim?"
+    "place": "Misrephoth-maim",
+    "geojson": "Misrephoth-maim"
   },
   {
     "place": "Mitylene",
@@ -2412,12 +2380,12 @@
     "geojson": "Modiin"
   },
   {
-    "place": "Moresheth-gath?",
-    "geojson": "Moresheth-gath?"
+    "place": "Moresheth-gath",
+    "geojson": "Moresheth-gath"
   },
   {
-    "place": "Mozah?",
-    "geojson": "Mozah?"
+    "place": "Mozah",
+    "geojson": "Mozah"
   },
   {
     "place": "Mutina",
@@ -2432,20 +2400,20 @@
     "geojson": "Myra"
   },
   {
-    "place": "Naarah?",
-    "geojson": "Naarah?"
+    "place": "Naarah",
+    "geojson": "Naarah"
   },
   {
     "place": "Nagar",
     "geojson": "Nagar"
   },
   {
-    "place": "Nahalal?",
-    "geojson": "Nahalal?"
+    "place": "Nahalal",
+    "geojson": "Nahalal"
   },
   {
-    "place": "Nahale-gaash?",
-    "geojson": "Nahale-gaash?"
+    "place": "Nahale-gaash",
+    "geojson": "Nahale-gaash"
   },
   {
     "place": "Nain",
@@ -2500,8 +2468,8 @@
     "geojson": "Nehelam"
   },
   {
-    "place": "Neiel?",
-    "geojson": "Neiel?"
+    "place": "Neiel",
+    "geojson": "Neiel"
   },
   {
     "place": "Nemausus",
@@ -2528,8 +2496,8 @@
     "geojson": "Nezib"
   },
   {
-    "place": "Nibshan?",
-    "geojson": "Nibshan?"
+    "place": "Nibshan",
+    "geojson": "Nibshan"
   },
   {
     "place": "Nicea",
@@ -2576,8 +2544,8 @@
     "geojson": "Oboda"
   },
   {
-    "place": "Oboth?",
-    "geojson": "Oboth?"
+    "place": "Oboth",
+    "geojson": "Oboth"
   },
   {
     "place": "Ocriculum",
@@ -2616,8 +2584,8 @@
     "geojson": "Ophrah"
   },
   {
-    "place": "Ophrah? (Jdg 6-9)",
-    "geojson": "Ophrah? (Jdg 6-9)"
+    "place": "Ophrah (Jdg 6-9)",
+    "geojson": "Ophrah (Jdg 6-9)"
   },
   {
     "place": "Opis",
@@ -2652,8 +2620,8 @@
     "geojson": "Old Paphos"
   },
   {
-    "place": "Parah?",
-    "geojson": "Parah?"
+    "place": "Parah",
+    "geojson": "Parah"
   },
   {
     "place": "Parma",
@@ -2684,8 +2652,8 @@
     "geojson": "Pelusium"
   },
   {
-    "place": "Peniel?",
-    "geojson": "Peniel?"
+    "place": "Peniel",
+    "geojson": "Peniel"
   },
   {
     "place": "Peor",
@@ -2772,8 +2740,8 @@
     "geojson": "Pistoia"
   },
   {
-    "place": "Pithom?",
-    "geojson": "Pithom?"
+    "place": "Pithom",
+    "geojson": "Pithom"
   },
   {
     "place": "Placentia",
@@ -2856,12 +2824,8 @@
     "geojson": "Ramah"
   },
   {
-    "place": "Ramah?",
-    "geojson": "Ramah?"
-  },
-  {
-    "place": "Ramathaim-zophim?",
-    "geojson": "Ramathaim-zophim?"
+    "place": "Ramathaim-zophim",
+    "geojson": "Ramathaim-zophim"
   },
   {
     "place": "Rameses",
@@ -2872,8 +2836,8 @@
     "geojson": "Ramoth-gilead"
   },
   {
-    "place": "Raphana?",
-    "geojson": "Raphana?"
+    "place": "Raphana",
+    "geojson": "Raphana"
   },
   {
     "place": "Raphia",
@@ -2888,24 +2852,24 @@
     "geojson": "Regium"
   },
   {
-    "place": "Rehob?",
-    "geojson": "Rehob?"
-  },
-  {
     "place": "Rehob",
     "geojson": "Rehob"
   },
   {
-    "place": "Rephidim?",
-    "geojson": "Rephidim?"
+    "place": "Rekem",
+    "geojson": "Rekem"
+  },
+  {
+    "place": "Rephidim",
+    "geojson": "Rephidim"
   },
   {
     "place": "Respampani",
     "geojson": "Respampani"
   },
   {
-    "place": "Rezeph?",
-    "geojson": "Rezeph?"
+    "place": "Rezeph",
+    "geojson": "Rezeph"
   },
   {
     "place": "Rhegium",
@@ -2926,10 +2890,6 @@
   {
     "place": "Riblah",
     "geojson": "Riblah"
-  },
-  {
-    "place": "Rimmon?",
-    "geojson": "Rimmon?"
   },
   {
     "place": "Rimmon",
@@ -2960,12 +2920,12 @@
     "geojson": "Salamis"
   },
   {
-    "place": "Salecah?",
-    "geojson": "Salecah?"
+    "place": "Salecah",
+    "geojson": "Salecah"
   },
   {
-    "place": "Salim?",
-    "geojson": "Salim?"
+    "place": "Salim",
+    "geojson": "Salim"
   },
   {
     "place": "Salona",
@@ -2976,8 +2936,8 @@
     "geojson": "Samaria"
   },
   {
-    "place": "Sansannah?",
-    "geojson": "Sansannah?"
+    "place": "Sansannah",
+    "geojson": "Sansannah"
   },
   {
     "place": "Sardis",
@@ -3008,8 +2968,8 @@
     "geojson": "Sebennytos"
   },
   {
-    "place": "Secacah?",
-    "geojson": "Secacah?"
+    "place": "Secacah",
+    "geojson": "Secacah"
   },
   {
     "place": "Segesta",
@@ -3056,24 +3016,24 @@
     "geojson": "Shaduppum"
   },
   {
-    "place": "Shamir?",
-    "geojson": "Shamir?"
+    "place": "Shamir",
+    "geojson": "Shamir"
   },
   {
-    "place": "Shaphir?",
-    "geojson": "Shaphir?"
+    "place": "Shaphir",
+    "geojson": "Shaphir"
   },
   {
-    "place": "Sharuhen?",
-    "geojson": "Sharuhen?"
+    "place": "Sharuhen",
+    "geojson": "Sharuhen"
   },
   {
     "place": "Shechem",
     "geojson": "Shechem"
   },
   {
-    "place": "Shepham?",
-    "geojson": "Shepham?"
+    "place": "Shepham",
+    "geojson": "Shepham"
   },
   {
     "place": "Shikkeron",
@@ -3148,8 +3108,8 @@
     "geojson": "Socoh (Josh 15:48)"
   },
   {
-    "place": "Sodom?",
-    "geojson": "Sodom?"
+    "place": "Sodom",
+    "geojson": "Sodom"
   },
   {
     "place": "Soloi",
@@ -3172,16 +3132,12 @@
     "geojson": "Spring of Harod"
   },
   {
-    "place": "Stone of Bohan?",
-    "geojson": "Stone of Bohan?"
+    "place": "Stone of Bohan",
+    "geojson": "Stone of Bohan"
   },
   {
     "place": "Strato's Tower",
     "geojson": "Strato's Tower"
-  },
-  {
-    "place": "Succoth?",
-    "geojson": "Succoth?"
   },
   {
     "place": "Succoth",
@@ -3236,8 +3192,8 @@
     "geojson": "Tahpanhes"
   },
   {
-    "place": "Tamar?",
-    "geojson": "Tamar?"
+    "place": "Tamar",
+    "geojson": "Tamar"
   },
   {
     "place": "Tamassos",
@@ -3264,8 +3220,8 @@
     "geojson": "Tarraco"
   },
   {
-    "place": "Tartessos?",
-    "geojson": "Tartessos?"
+    "place": "Tartessos",
+    "geojson": "Tartessos"
   },
   {
     "place": "Tarsus",
@@ -3300,8 +3256,8 @@
     "geojson": "Tema"
   },
   {
-    "place": "Teman?",
-    "geojson": "Teman?"
+    "place": "Teman",
+    "geojson": "Teman"
   },
   {
     "place": "Tergeste",
@@ -3416,8 +3372,8 @@
     "geojson": "Tirzah"
   },
   {
-    "place": "Tishbe?",
-    "geojson": "Tishbe?"
+    "place": "Tishbe",
+    "geojson": "Tishbe"
   },
   {
     "place": "Tomb of Nerone",
@@ -3468,8 +3424,8 @@
     "geojson": "Tushpa"
   },
   {
-    "place": "Tuttul?",
-    "geojson": "Tuttul?"
+    "place": "Tuttul",
+    "geojson": "Tuttul"
   },
   {
     "place": "Tyre",
@@ -3556,16 +3512,16 @@
     "geojson": "Yiron"
   },
   {
-    "place": "Yurza?",
-    "geojson": "Yurza?"
+    "place": "Yurza",
+    "geojson": "Yurza"
   },
   {
-    "place": "Zaanannim?",
-    "geojson": "Zaanannim?"
+    "place": "Zaanannim",
+    "geojson": "Zaanannim"
   },
   {
-    "place": "Zalmonah?",
-    "geojson": "Zalmonah?"
+    "place": "Zalmonah",
+    "geojson": "Zalmonah"
   },
   {
     "place": "Zancle",
@@ -3592,24 +3548,24 @@
     "geojson": "Zawty"
   },
   {
-    "place": "Zeboiim?",
-    "geojson": "Zeboiim?"
+    "place": "Zeboiim",
+    "geojson": "Zeboiim"
   },
   {
     "place": "Zedad",
     "geojson": "Zedad"
   },
   {
-    "place": "Zelzah?",
-    "geojson": "Zelzah?"
+    "place": "Zelzah",
+    "geojson": "Zelzah"
   },
   {
     "place": "Zemar",
     "geojson": "Zemar"
   },
   {
-    "place": "Zemaraim?",
-    "geojson": "Zemaraim?"
+    "place": "Zemaraim",
+    "geojson": "Zemaraim"
   },
   {
     "place": "Zephyrion",
@@ -3620,8 +3576,8 @@
     "geojson": "Zeredah"
   },
   {
-    "place": "Zereth-shahar?",
-    "geojson": "Zereth-shahar?"
+    "place": "Zereth-shahar",
+    "geojson": "Zereth-shahar"
   },
   {
     "place": "Ziklag",
@@ -3632,8 +3588,8 @@
     "geojson": "Ziph"
   },
   {
-    "place": "Ziphron?",
-    "geojson": "Ziphron?"
+    "place": "Ziphron",
+    "geojson": "Ziphron"
   },
   {
     "place": "Zoan",
@@ -3648,7 +3604,19 @@
     "geojson": "Zorah"
   },
   {
-    "place": "Waheb? (Num 21:15)",
-    "geojson": "Waheb? (Num 21:15)"
+    "place": "Waheb (Num 21:15)",
+    "geojson": "Waheb (Num 21:15)"
+  },
+  {
+    "place": "Nessana",
+    "geojson": "Nessana"
+  },
+  {
+    "place": "Barca",
+    "geojson": "Barca"
+  },
+  {
+    "place": "Balagrae",
+    "geojson": "Balagrae"
   }
 ]

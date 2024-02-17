@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "33.103999999999999",
+      "35.442999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Merom?"
+    "id": "Merom"
   },
   "type": "Feature"
 }

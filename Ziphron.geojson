@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "34.269399999999997",
+      "37.076900000000002"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Ziphron?"
+    "id": "Ziphron"
   },
   "type": "Feature"
 }

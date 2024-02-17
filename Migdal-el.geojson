@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "33.162999999999997",
+      "35.515999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Migdal-el?"
+    "id": "Migdal-el"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.025999999999996",
+      "35.017000000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Ramathaim-zophim?"
+    "id": "Ramathaim-zophim"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "30.548000000000002",
+      "31.964099999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Pithom?"
+    "id": "Pithom"
   },
   "type": "Feature"
 }

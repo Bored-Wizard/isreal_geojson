@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "34.229999999999997",
+      "37.242600000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Hazar-enan?"
+    "id": "Hazar-enan"
   },
   "type": "Feature"
 }

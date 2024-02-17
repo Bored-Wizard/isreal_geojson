@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.382200000000001",
+      "34.606700000000004"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Gerar?"
+    "id": "Gerar"
   },
   "type": "Feature"
 }

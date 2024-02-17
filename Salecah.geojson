@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.491",
+      "36.710999999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Salecah?"
+    "id": "Salecah"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "30.933799999999998",
+      "35.472299999999997"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Admah?"
+    "id": "Admah"
   },
   "type": "Feature"
 }

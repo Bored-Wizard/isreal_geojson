@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.753499999999999",
+      "35.011499999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Lehi?"
+    "id": "Lehi"
   },
   "type": "Feature"
 }

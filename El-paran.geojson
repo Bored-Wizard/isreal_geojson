@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "30.210999999999999",
+      "35.533999999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "El-paran?"
+    "id": "El-paran"
   },
   "type": "Feature"
 }

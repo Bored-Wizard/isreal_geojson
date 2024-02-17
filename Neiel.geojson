@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.893999999999998",
+      "35.222000000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Neiel?"
+    "id": "Neiel"
   },
   "type": "Feature"
 }

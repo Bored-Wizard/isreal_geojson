@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.622199999999999",
+      "36.847900000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Shepham?"
+    "id": "Shepham"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.356999999999999",
+      "35.747999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Tishbe?"
+    "id": "Tishbe"
   },
   "type": "Feature"
 }

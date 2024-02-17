@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.911000000000001",
+      "35.212000000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Zemaraim?"
+    "id": "Zemaraim"
   },
   "type": "Feature"
 }

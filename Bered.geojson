@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.097200000000001",
+      "34.6539"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Bered?"
+    "id": "Bered"
   },
   "type": "Feature"
 }

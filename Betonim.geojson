@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.988",
+      "35.700000000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Betonim?"
+    "id": "Betonim"
   },
   "type": "Feature"
 }

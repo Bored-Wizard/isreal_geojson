@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "36.314999999999998",
+      "37.174100000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Calno?"
+    "id": "Calno"
   },
   "type": "Feature"
 }

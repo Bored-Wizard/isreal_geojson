@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.823",
+      "35.188000000000002"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Beeroth?"
+    "id": "Beeroth"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.697000000000003",
+      "35.241"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Nahalal?"
+    "id": "Nahalal"
   },
   "type": "Feature"
 }

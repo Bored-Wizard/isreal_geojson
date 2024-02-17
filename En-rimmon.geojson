@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.378999999999998",
+      "34.869"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "En-rimmon?"
+    "id": "En-rimmon"
   },
   "type": "Feature"
 }

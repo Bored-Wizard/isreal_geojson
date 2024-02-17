@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "30.394600000000001",
+      "35.342700000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Zalmonah?"
+    "id": "Zalmonah"
   },
   "type": "Feature"
 }

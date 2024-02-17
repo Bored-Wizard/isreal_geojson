@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.473800000000001",
+      "35.227400000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Hill of Hachilah?"
+    "id": "Hill of Hachilah"
   },
   "type": "Feature"
 }

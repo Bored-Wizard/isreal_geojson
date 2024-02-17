@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.344999999999999",
+      "34.905000000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Sansannah?"
+    "id": "Sansannah"
   },
   "type": "Feature"
 }

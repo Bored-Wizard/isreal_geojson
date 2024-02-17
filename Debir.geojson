@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.437000000000001",
+      "35.015999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Debir?"
+    "id": "Debir"
   },
   "type": "Feature"
 }

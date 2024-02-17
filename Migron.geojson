@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.889900000000001",
+      "35.2712"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Migron?"
+    "id": "Migron"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.2332",
+      "34.986600000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Baalath-beer?"
+    "id": "Baalath-beer"
   },
   "type": "Feature"
 }

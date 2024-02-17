@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.279199999999999",
+      "34.483499999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Sharuhen?"
+    "id": "Sharuhen"
   },
   "type": "Feature"
 }

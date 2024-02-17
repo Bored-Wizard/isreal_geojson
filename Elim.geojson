@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "29.277999999999999",
+      "32.953000000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Elim?"
+    "id": "Elim"
   },
   "type": "Feature"
 }

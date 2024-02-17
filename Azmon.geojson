@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "30.6876",
+      "34.333100000000002"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Azmon?"
+    "id": "Azmon"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.850000000000001",
+      "36.170999999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Raphana?"
+    "id": "Raphana"
   },
   "type": "Feature"
 }

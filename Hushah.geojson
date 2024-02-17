@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.710999999999999",
+      "35.131999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Hushah?"
+    "id": "Hushah"
   },
   "type": "Feature"
 }

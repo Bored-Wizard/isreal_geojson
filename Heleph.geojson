@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.721499999999999",
+      "35.411200000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Heleph?"
+    "id": "Heleph"
   },
   "type": "Feature"
 }

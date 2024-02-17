@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.101900000000001",
+      "34.7943"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Me-yarkon?"
+    "id": "Me-yarkon"
   },
   "type": "Feature"
 }

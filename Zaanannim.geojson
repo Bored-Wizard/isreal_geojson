@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.753",
+      "35.397999999999996"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Zaanannim?"
+    "id": "Zaanannim"
   },
   "type": "Feature"
 }

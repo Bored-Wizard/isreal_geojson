@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.215199999999999",
+      "34.968299999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Hormah?"
+    "id": "Hormah"
   },
   "type": "Feature"
 }

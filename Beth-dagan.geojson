@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.001899999999999",
+      "34.8294"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Beth-dagan?"
+    "id": "Beth-dagan"
   },
   "type": "Feature"
 }

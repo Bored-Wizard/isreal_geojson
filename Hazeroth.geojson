@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "28.8934",
+      "34.423400000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Hazeroth?"
+    "id": "Hazeroth"
   },
   "type": "Feature"
 }

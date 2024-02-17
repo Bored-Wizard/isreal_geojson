@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.902000000000001",
+      "35.167999999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Mishal?"
+    "id": "Mishal"
   },
   "type": "Feature"
 }

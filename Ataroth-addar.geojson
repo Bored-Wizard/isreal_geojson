@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.876999999999999",
+      "35.216999999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Ataroth-addar?"
+    "id": "Ataroth-addar"
   },
   "type": "Feature"
 }

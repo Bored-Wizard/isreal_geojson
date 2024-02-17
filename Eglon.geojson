@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.490500000000001",
+      "34.9285"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Eglon?"
+    "id": "Eglon"
   },
   "type": "Feature"
 }

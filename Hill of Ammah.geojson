@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.839300000000001",
+      "35.137"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Hill of Ammah?"
+    "id": "Hill of Ammah"
   },
   "type": "Feature"
 }

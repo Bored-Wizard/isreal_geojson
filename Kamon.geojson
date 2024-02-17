@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.601700000000001",
+      "35.704999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Kamon?"
+    "id": "Kamon"
   },
   "type": "Feature"
 }

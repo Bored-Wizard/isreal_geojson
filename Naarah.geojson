@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.893599999999999",
+      "35.424700000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Naarah?"
+    "id": "Naarah"
   },
   "type": "Feature"
 }

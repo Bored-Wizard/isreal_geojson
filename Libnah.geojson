@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.631",
+      "34.877000000000002"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Libnah?"
+    "id": "Libnah"
   },
   "type": "Feature"
 }

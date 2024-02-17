@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.632999999999999",
+      "34.909999999999997"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Moresheth-gath?"
+    "id": "Moresheth-gath"
   },
   "type": "Feature"
 }

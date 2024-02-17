@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.290500000000002",
+      "35.537500000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "En-eglaim?"
+    "id": "En-eglaim"
   },
   "type": "Feature"
 }

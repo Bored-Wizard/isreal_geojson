@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "34.723500000000001",
+      "36.714199999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Hamath-zobah?"
+    "id": "Hamath-zobah"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.898",
+      "35.012999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Gittaim?"
+    "id": "Gittaim"
   },
   "type": "Feature"
 }

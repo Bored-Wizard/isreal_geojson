@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.104500000000002",
+      "34.964300000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Ebenezer?"
+    "id": "Ebenezer"
   },
   "type": "Feature"
 }

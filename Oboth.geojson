@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "30.614000000000001",
+      "35.184800000000003"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Oboth?"
+    "id": "Oboth"
   },
   "type": "Feature"
 }

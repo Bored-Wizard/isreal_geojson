@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.093000000000004",
+      "34.805999999999997"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Gath-rimmon?"
+    "id": "Gath-rimmon"
   },
   "type": "Feature"
 }

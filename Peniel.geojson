@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.185200000000002",
+      "35.686500000000002"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Peniel?"
+    "id": "Peniel"
   },
   "type": "Feature"
 }

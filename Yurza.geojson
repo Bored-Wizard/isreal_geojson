@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.386700000000001",
+      "34.447600000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Yurza?"
+    "id": "Yurza"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.898800000000001",
+      "35.2072"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Zelzah?"
+    "id": "Zelzah"
   },
   "type": "Feature"
 }

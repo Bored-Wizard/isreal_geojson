@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.748599999999996",
+      "36.240400000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Helam?"
+    "id": "Helam"
   },
   "type": "Feature"
 }

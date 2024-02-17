@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.730000000000004",
+      "35.408799999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Kedesh-naphtali?"
+    "id": "Kedesh-naphtali"
   },
   "type": "Feature"
 }

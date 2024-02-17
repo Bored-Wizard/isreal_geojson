@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.834499999999998",
+      "35.310099999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Parah?"
+    "id": "Parah"
   },
   "type": "Feature"
 }

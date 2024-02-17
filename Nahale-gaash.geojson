@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.959",
+      "35.147999999999996"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Nahale-gaash?"
+    "id": "Nahale-gaash"
   },
   "type": "Feature"
 }

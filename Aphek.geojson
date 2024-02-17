@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.844000000000001",
+      "35.109999999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Aphek?"
+    "id": "Aphek"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "29.866399999999999",
+      "32.649999999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Marah?"
+    "id": "Marah"
   },
   "type": "Feature"
 }

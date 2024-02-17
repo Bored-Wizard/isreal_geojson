@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.874000000000002",
+      "35.149999999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Acshaph?"
+    "id": "Acshaph"
   },
   "type": "Feature"
 }

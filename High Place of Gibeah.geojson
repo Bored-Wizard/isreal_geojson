@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.832999999999998",
+      "35.180999999999997"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "High Place of Gibeah?"
+    "id": "High Place of Gibeah"
   },
   "type": "Feature"
 }

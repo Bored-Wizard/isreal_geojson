@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "33.732199999999999",
+      "35.933500000000002"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Gerrha?"
+    "id": "Gerrha"
   },
   "type": "Feature"
 }

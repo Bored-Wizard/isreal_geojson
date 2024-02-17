@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "34.399000000000001",
+      "37.150999999999996"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Berothai?"
+    "id": "Berothai"
   },
   "type": "Feature"
 }

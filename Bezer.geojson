@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.786000000000001",
+      "35.900999999999996"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Bezer?"
+    "id": "Bezer"
   },
   "type": "Feature"
 }

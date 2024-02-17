@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.566099999999999",
+      "35.611899999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Lo-debar?"
+    "id": "Lo-debar"
   },
   "type": "Feature"
 }

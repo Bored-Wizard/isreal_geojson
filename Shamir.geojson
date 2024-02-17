@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.277999999999999",
+      "35.195"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Shamir?"
+    "id": "Shamir"
   },
   "type": "Feature"
 }

@@ -1,23 +1,21 @@
 const fs = require('fs');
 
-function convertToSeparateGeoJSON() {
-    const jsonFile = fs.readFileSync('cities.json', 'utf8');
+function convertToSeparateGeoJSON() { 
+    
+    const jsonFile = fs.readFileSync('fixedGeojson.json', 'utf8');
     const geoJsonList = JSON.parse(jsonFile);
     let extraCities = {};
-    for(let i = 0; i < geoJsonList["features"].length; i++){
+    let x = 1;
+    for(let i = 0; i < geoJsonList.length; i++){
         const geoJsonObject = {
-            ...geoJsonList["features"][i],
-            properties: {
-                id: geoJsonList["features"][i].properties.name
-            }
+            ...geoJsonList[i]
         }
 
-        let name = `${geoJsonList["features"][i].properties.name}.geojson`;
-        name = name.replace("?", "")
+        let name = `${geoJsonList[i].properties.id}.geojson`;
         try{
-            // const jsonFile = fs.writeFileSync(`${name}`, JSON.stringify(geoJsonObject, null, 2));            
+            const jsonFile = fs.writeFileSync(`${name}`, JSON.stringify(geoJsonObject, null, 2));       
             try{
-                extraCities[`${geoJsonList["features"][i].properties.name}`] = `${geoJsonList["features"][i].properties.name}`
+                extraCities[`${geoJsonList[i].properties.id}`] = `${geoJsonList[i].properties.id}`
             }catch(e){
                 
             }
@@ -31,6 +29,7 @@ function convertToSeparateGeoJSON() {
                 geojson: city
             }
         }), null, 2));            
+        console.log(x, Object.keys(extraCities).length, geoJsonList.length)
     }catch(e){
         console.log(e)
     }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.680999999999997",
+      "35.323999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Kisloth-tabor?"
+    "id": "Kisloth-tabor"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "35.628999999999998",
+      "38.758600000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Rezeph?"
+    "id": "Rezeph"
   },
   "type": "Feature"
 }

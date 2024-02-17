@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "30.7925",
+      "34.4681"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Beer-lahai-roi?"
+    "id": "Beer-lahai-roi"
   },
   "type": "Feature"
 }

@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.201000000000001",
+      "35.305"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Gilgal? (Dt 11)"
+    "id": "Gilgal (Dt 11)"
   },
   "type": "Feature"
 }

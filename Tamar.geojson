@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "30.809200000000001",
+      "35.244399999999999"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Tamar?"
+    "id": "Tamar"
   },
   "type": "Feature"
 }

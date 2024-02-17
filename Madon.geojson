@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "32.799999999999997",
+      "35.460000000000001"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Madon?"
+    "id": "Madon"
   },
   "type": "Feature"
 }

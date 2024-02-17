@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "30.341000000000001",
+      "35.5"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Teman?"
+    "id": "Teman"
   },
   "type": "Feature"
 }

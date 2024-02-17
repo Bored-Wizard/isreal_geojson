@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "28.643999999999998",
+      "33.823999999999998"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Rephidim?"
+    "id": "Rephidim"
   },
   "type": "Feature"
 }

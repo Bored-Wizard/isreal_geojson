@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.777999999999999",
+      "35.249200000000002"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Bethphage?"
+    "id": "Bethphage"
   },
   "type": "Feature"
 }

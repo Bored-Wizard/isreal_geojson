@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "31.245000000000001",
+      "35.685000000000002"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Horonaim?"
+    "id": "Horonaim"
   },
   "type": "Feature"
 }

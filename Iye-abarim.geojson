@@ -1,13 +1,13 @@
 {
   "geometry": {
     "coordinates": [
-      31.3898,
-      31.3898
+      "30.966100000000001",
+      "35.7761"
     ],
     "type": "Point"
   },
   "properties": {
-    "id": "Iye-abarim?"
+    "id": "Iye-abarim"
   },
   "type": "Feature"
 }
